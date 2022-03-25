@@ -18,5 +18,6 @@ Route::prefix('admin')->group(function () {
     Route::get('/', 'AdminController@index')->name('adminhome');
 
 
-    Route::get('/HTML_Introduction', 'HTML_Introduction@index')->name('HTML_Introduction');
+    Route::get('/Introduction', 'HtmlintroController@index')->name('htmlintro');
+
 });
