@@ -7,6 +7,7 @@ h4 {
   background-color:#ff6347;
 }
 /* bentuk border */
+
 .w3-example {
   padding: 8px 20px;
   margin: 24px -20px;
@@ -27,8 +28,7 @@ h4 {
   border-left: 4px solid #4CAF50;
   word-wrap: break-word;
 }	
-/*  bentuk dan warna tombol
-*/
+
 .w3-btn:hover, .w3-btn:active, .w3-example a:focus, .nextprev a:focus {
   box-shadow: none;
   background-color: #059862 !important;
