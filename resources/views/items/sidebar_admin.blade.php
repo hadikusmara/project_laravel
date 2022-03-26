@@ -20,7 +20,7 @@
 	<i class='fa fa-angle-left pull-right'></i></a> 
 		<ul class='treeview-menu'>
 				<li>
-					<a href="{{ route('HTML_Introduction') }}"><i class='fa fa-angle-double-right'></i>HTML Introduction</a>
+					<a href="{{ route('htmlintro') }}"><i class='fa fa-angle-double-right'></i>HTML Introduction</a>
 				<li>
 					<a href='?module=HTML Editors'><i class='fa fa-angle-double-right'></i> HTML Editors</a>
 				<li>
