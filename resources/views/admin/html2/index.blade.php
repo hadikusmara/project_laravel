@@ -74,6 +74,7 @@ Contoh   ::</p>
 <h4>Belajar Mudah dengan HTML "Coba Sendiri"</h4>
 
 <p>Dengan editor "Coba Sendiri" kami, Anda dapat mengedit kode HTML dan melihat hasilnya: </p>
+<P>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Est ducimus unde obcaecati numquam quasi deleniti deserunt! Illum, ullam! Nihil explicabo autem maiores rerum quisquam ipsa beatae qui aperiam enim illo.</P>
 
 
 <div class="w3-example">
