@@ -166,7 +166,7 @@
 	</li><li class='treeview'><a href='#'><i class='fa fa-pagelines'></i><span>Tutorial JavaScript</span><i class='fa fa-angle-left pull-right'></i></a> 
 		<ul class='treeview-menu'>
 				<li>
-					<a href='?module=JS Introduction'><i class='fa fa-angle-double-right'></i> JS Introduction</a>
+					<a href="{{ route('jsintro') }}"><i class='fa fa-angle-double-right'></i> JS Introduction</a>
 				<li>
 					<a href='?module=JS Where To'><i class='fa fa-angle-double-right'></i> JS Where To </a>
 				<li>
