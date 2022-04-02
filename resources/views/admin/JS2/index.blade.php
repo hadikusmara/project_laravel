@@ -67,11 +67,11 @@ h4 {
 				</div>
 				<div class='box-body border-radius-none'>	
 				<p>JavaScript  Tutorial
-JS adalah bahasa markup standar untuk halaman Web.Dengan HTML Anda dapat membuat situs web Anda sendiri.HTML mudah dipelajari - Anda akan menikmatinya!
+JS adalah bahasa markup standar untuk halaman Web.Denganjavascrpit Anda dapat membuat situs web Anda sendiri.HTML mudah dipelajari - Anda akan menikmatinya!
 Contoh di Setiap Bab
-Tutorial HTML ini berisi ratusan contoh HTML.Dengan editor Notepade ++, Anda dapat mengedit HTML dan jalankan di browser anda.
+Tutorialjavascrpit ini berisi ratusan contohjavascrpit.Dengan editor Notepade ++, Anda dapat mengeditjavascrpit dan jalankan di browser anda.
 Contoh   ::</p>
-<h4>Belajar Mudah dengan HTML "Coba Sendiri"</h4>
+<h4>Belajar Mudah denganjavascrpit "Coba Sendiri"</h4>
 
 <p>Dengan editor "Coba Sendiri" kami, Anda dapat mengedit kode HTML dan melihat hasilnya: </p>
 
