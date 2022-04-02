@@ -73,7 +73,7 @@ Tutorialjavascrpit ini berisi ratusan contohjavascrpit.Dengan editor Notepade ++
 Contoh   ::</p>
 <h4>Belajar Mudah denganjavascrpit "Coba Sendiri"</h4>
 
-<p>Dengan editor "Coba Sendiri" kami, Anda dapat mengedit kode HTML dan melihat hasilnya: </p>
+<p>Dengan editor "Coba Sendiri" kami, Anda dapat mengedit kode javascript dan melihat hasilnya: </p>
 
 
 <div class="w3-example">
