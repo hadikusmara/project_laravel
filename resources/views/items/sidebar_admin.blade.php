@@ -20,94 +20,21 @@
 	<i class='fa fa-angle-left pull-right'></i></a> 
 		<ul class='treeview-menu'>
 				<li><a href="{{ route('htmlintro') }}"><i class='fa fa-angle-double-right'></i>HTML Introduction</a>
-				</li><li><a href='?module=JS Where To'><i class='fa fa-angle-double-right'></i> JS Where To[ADELLIA ASKARAGITA}  </a>
-				</li><li>	<a href='?module=JS Output'><i class='fa fa-angle-double-right'></i> JS Output[AFNAN DWI ASTUTI ]</a>
-				</li><li>	<a href='?module=JS Statements'><i class='fa fa-angle-double-right'></i> JS Statements[AGAM MUJAHIDIN ]</a>
-				</li><li>	<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'></i>JS Syntax[AHMAD HABIBI ] </a>
-				</li><li><a href='?module=JS Comments'><i class='fa fa-angle-double-right'></i>JS Comments[ALDI PRATAMA]</a>
-				</li><li>	<a href='?module=JS Variables'><i class='fa fa-angle-double-right'></i>JS Variables[ALIFUDIN ALFARIZI]</a>
-				</li><li>	<a href='?module=JS Let'><i class='fa fa-angle-double-right'></i>JS Let [AMARULLOH ADJI GUNAWAN]</a>
-				</li><li>	<a href='?module=JS Const'><i class='fa fa-angle-double-right'></i>JS Const [ARYA BAYU MUNGGARAN]</a>
-				</li><li>	<a href='?module=JS Operators'><i class='fa fa-angle-double-right'></i>JS Operators[BUDI SANTOSO]</a>
-				</li><li>	<a href='?module=JS Arithmetic'><i class='fa fa-angle-double-right'></i>JS Arithmetic[CAHYA ARYA JIBRAN]</a>
-				</li><li>	<a href='?module=JS Assignment'><i class='fa fa-angle-double-right'></i>JS Assignment[DANIEL JHON ROSINTON HUTAURUK]</a>
-				</li><li><a href='?module=JS Data Types'><i class='fa fa-angle-double-right'></i>JS Data Types[DANIEL JUANDONO ]</a>\
-				</li><li><a href='?module=JS Functions'><i class='fa fa-angle-double-right'></i>JS Functions[DINAR ALIFAH YUNIAR ]</a>
-				</li><li>	<a href='?module=JS Objects'><i class='fa fa-angle-double-right'></i>JS Objects[DZAKIYYAH NUR HAFIZHAH FACKHRI ]</a>
-				</li><li>	<a href='?module=JS Events'><i class='fa fa-angle-double-right'></i>JS Events[ENDRO WINDU NUGROHO ]</a>
-				</li><li><a href='?module=JS Strings'><i class='fa fa-angle-double-right'></i>JS Strings[FARHAN AMALUDIN RISATYA  ]</a>
-				</li><li><a href='?module=JS String Methods'><i class='fa fa-angle-double-right'></i>JS String Methods[FARHANSYAH PUTRO  ]</a>
-				</li><li>	<a href='?module=JS String Search'><i class='fa fa-angle-double-right'></i>JS String Search[FAUZAN RIZKULLOH  ]</a>
-				</li><li>	<a href='?module=JS String Search'><i class='fa fa-angle-double-right'></i>JS String Search[FAUZAN RIZKULLOH  ]</a>
-				</li><li>	<a href='?module=JS String Search'><i class='fa fa-angle-double-right'></i>JS String Search[FAUZAN RIZKULLOH  ]</a>
-				</li><li>	<a href='?module=JS String Templates'><i class='fa fa-angle-double-right'></i>JS String Templates[ FERDI RENALDI ]</a>
-				</li><li>	<a href='?module=JS Numbers'><i class='fa fa-angle-double-right'></i>JS Numbers[FIRMAN FEBRIANA ]</a>
-				</li><li>	<a href='?module=JS Number Methods'><i class='fa fa-angle-double-right'></i>JS Number Methods[FREDERIK RAYA KORE  ]</a>
-				</li><li>	<a href='?module=JS Arrays'><i class='fa fa-angle-double-right'></i>JS Arrays[ GALIH ADI PRATAMA]</a>
-				</li><li>	<a href='?module=JS Array Methods'><i class='fa fa-angle-double-right'>	   </i>JS Array Methods[GALIH APRIANSHA PRADANA ]</a>
-				</li><li>	<a href='?module=JS Array Sort'><i class='fa fa-angle-double-right'>		  </i>JS Array Sort[GUNAWAN RAYNALDI ]</a>
-				</li><li>	<a href='?module=JS Array Iteration'><i class='fa fa-angle-double-right'></i>JS Array Iteration[GUSTIAN FIRMAN ABIDIN 	]</a>
-				</li><li>	<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'>			</i>JS Array Const[HERRY NURFAJDWIANTO  ]</a>
-				</li><li>	<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'></i>JS Dates[HERI KURNIAWAN]</a>
-				</li>
-				<li>	<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'></i>JS Date Get Method	  [HOTTUA KURNIAWAN LEONARDUS 	]</a></li><li>
-				<li>	<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'></i>JS Date Set Method	  [IBNU UMAR SARIP 	]</a>
-				</li><li>	<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'></i>JS Date Formats		  [ILHAM RIZKY WIDIANTO 	]</a>
-				</li><li>	<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'></i>JS Math				  [ILHAM SETIA BHAKTI 	]</a>
-				</li><li>	<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'></i>JS Random			  [IRGA MANDIRA 	]</a>
-				</li><li>	<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'></i>JS Booleans			  [JIHAN PARADILAH UMMI 	]</a>
-				</li><li>	<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'></i>JS Comparisons		  [JOKO SANTOSO 	]</a>
-				</li><li>	<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'></i>JS Conditions		  [JONATHAN KEVIN MANURUNG 	]</a>
-				</li><li>	<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'></i>JS Switch			  [JOSHUA FERNANDO 	]</a>
-				</li><li>	<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'></i>JS Loop For			  [JUHANS 	]</a>
-				</li><li>	<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'></i>JS Loop For In		  [KLARISA 	]</a>
-				</li><li>	<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'></i>JS Loop For Of		  [LUKMAN HAKIM 	]</a>
-				</li><li>	<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'></i>JS Loop While		  [LUTHFI NANDA WAIDYA 	]</a></li><li>
-					<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'></i>JS Break			  [M.ZAMZAMI 	]</a></li><li>
-					<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'></i>JS Iterables		  [MANUWASA FATWA SINDUGA CIAN CARAK]</a></li><li>
-					<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'></i>JS Sets				  [MITHA INTAN YOHANA 	]</a></li><li>
-					<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'></i>JS Maps				  [MOHAMMAD JA'FAR SHIDDIQ 	]</a></li><li>
-					<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'></i>JS Typeof			  [MOURIDIN MITSUARI 	]</a></li><li>
-					<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'></i>JS Type Conversion	  [MUHAMAD ADAM MAGHFIRA 	]</a></li><li>
-					<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'></i>JS Bitwise			  [MUHAMAD GALIH 	]</a></li><li>
-					<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'></i>JS RegExp			  [MUHAMMAD ALFAN NAJIH 	]</a></li><li>
-					<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'></i>JS Errors			  [MUHAMMAD AZIZ 	]</a></li><li>
-					<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'></i>JS Scope			  [MUHAMMAD DAFFA FERDINAN 	]</a></li><li>
-					<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'></i>JS Hoisting			  [MUHAMMAD ISMOYO ARIF WIBOWO 	]</a></li><li>
-					<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'></i>JS Strict Mode		  [MUHAMMAD RIFKI SAEFULLOH 	]</a></li><li>
-					<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'></i>JS this Keyword		  [MUHAMMAD SOLEHHUDIN 	]</a></li><li>
-					<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'></i>JS Arrow Function	  [RAYMOON STEPHEN 	]</a></li><li>
-					<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'></i>JS Classes			  [RICKI LAMHOT 	]</a></li><li>
-					<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'></i>JS Modules			  [RISKA AULIANDA 	]</a></li><li>
-					<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'></i>JS JSON				  [RIZKY ALFIANSYAH 	]</a></li><li>
-					<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'></i>JS Debugging		  [RUDY HIMAWAN 	]</a></li><li>
-					<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'></i>JS Style Guide		  [RYAN PUTRA SETIAWAN 	]</a></li><li>
-					<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'></i>JS Best Practices	  [SHIFA ANAMIKA 	]</a></li><li>
-					<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'></i>JS Mistakes			  [SULTAN ALIF ATAMI 	]</a></li><li>
-					<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'></i>JS Performance		  [SYAHRIL RIFADLI 	]</a></li><li>
-					<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'></i>JS Reserved Words	  [SYAHRUL DESTRANGGA PUTRA PRASETYO]</a></li><li>
-					<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'></i>JS Versions			  [SYARIEF HIDAYATULLAH 	]</a></li><li>
-					<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'></i>JS Versions			  [TANZILA AZIS RAHMA TOUS 	]</a></li><li>
-					<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'></i>JS 2009 (ES5)		  [TRI FURKAN SARJONO AJI 	]</a></li><li>
-					<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'></i>JS 2015 (ES6)		  [VILLA MUKTI INDRIYANTO 	]</a></li><li>
-					<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'></i>JS 2016				  [VINKA HUSNUL KHOTIMAH 	]</a></li><li>
-					<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'></i>JS 2017				  [YONGKY JOAN ALAMSYAH 	]</a></li><li>
-					<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'></i>JS 2018				  []</a></li><li>
-					<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'></i>JS IE / Edge		  []</a></li><li>
-					<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'></i>JS History			  []</a></li><li>
-					<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'></i>JS Objects			  []</a></li><li>
-					<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'></i>Object Definitions	  []</a></li><li>
-					<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'></i>Object Properties	  []</a></li><li>
-					<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'></i>Object Methods		  []</a></li><li>
-					<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'></i>Object Display		  []</a></li><li>
-					<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'></i>Object Accessors	  []</a></li><li>
-					<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'></i>Object Constructors	  []</a></li><li>
-					<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'></i>Object Prototypes	  []</a></li><li>
-					<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'></i>Object Iterables	  []</a></li><li>
-					<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'></i>Object Sets			  []</a></li><li>
-					<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'></i>Object Maps			  []</a></li><li>
-					<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'></i>Object Reference	  []</a></li><li>
 				
+	<li><a href="{{ route('htmlintro') }}"><i class='fa fa-angle-double-right'></i>HTML Introduction</a>
+	</li><li><a href='?module=JS Where To'><i class='fa fa-angle-double-right'></i>HTML Editors[ AHMAD HAIKAL 	] </a>
+	</li><li><a href='?module=JS Where To'><i class='fa fa-angle-double-right'></i>HTML Basic[ ARYA BATARA SENA 	] </a>
+	</li><li><a href='?module=JS Where To'><i class='fa fa-angle-double-right'></i>HTML Elements[ BAYU ANDRIANSYAH 	] </a>
+	</li><li><a href='?module=JS Where To'><i class='fa fa-angle-double-right'></i>HTML Attributes[ DENDI KURNIADI 	] </a>
+	</li><li><a href='?module=JS Where To'><i class='fa fa-angle-double-right'></i>HTML Headings[ DIMAS IBNUAZZIS 	] </a>
+	</li><li><a href='?module=JS Where To'><i class='fa fa-angle-double-right'></i>HTML Paragraphs[ FEBRINA DIPONEGORO 	] </a>
+	</li><li><a href='?module=JS Where To'><i class='fa fa-angle-double-right'></i>HTML Styles[ MUHAMMAD MAULIA ASDI 	] </a>
+	</li><li><a href='?module=JS Where To'><i class='fa fa-angle-double-right'></i>HTML Formatting[ MUHAMMAD SHIDQI PRAMUDYA WIBOWO ] </a>
+	</li><li><a href='?module=JS Where To'><i class='fa fa-angle-double-right'></i>HTML Quotations[ RAFI ADIB FADHILAH 	] </a>
+	</li><li><a href='?module=JS Where To'><i class='fa fa-angle-double-right'></i>HTML Comments[ SATRIO ADHIYATAMA ERLANGGA 	] </a>
+	</li><li><a href='?module=JS Where To'><i class='fa fa-angle-double-right'></i>HTML Colors [ SIGIT SETIA BUDI 	] </a>
+	</li><li><a href='?module=JS Where To'><i class='fa fa-angle-double-right'></i>HTML CSS [ YEREMIA ] </a></li>
+	
 		</ul>
 	</li><li class='treeview'><a href='#'><i class='fa fa-bars'></i><span>Tutorial CSS</span><i class='fa fa-angle-left pull-right'></i></a> 
 		<ul class='treeview-menu'>
