@@ -1,10 +1,11 @@
 <?php
 
+
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 
-class HTML_IntroductionController extends Controller
+class JSWhereToController extends Controller
 {
     /**
      * Display a listing of the resource.
@@ -13,7 +14,7 @@ class HTML_IntroductionController extends Controller
      */
     public function index()
     {
-        return view('admin.html2.intro');
+        return view('admin.js.where-to');
     }
 
     /**

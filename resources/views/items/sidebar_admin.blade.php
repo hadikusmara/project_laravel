@@ -20,8 +20,8 @@
 <i class='fa fa-angle-left pull-right'></i></a> 
 	<ul class='treeview-menu'>
 			<li><a href="{{ route('htmlintro') }}"><i class='fa fa-angle-double-right'></i>HTML Introduction</a>
-			</li><li><a href='?module=JS Where To'><i class='fa fa-angle-double-right'></i> JS Where To[ADELLIA ASKARAGITA}  </a>
-			</li><li>	<a href='?module=JS Output'><i class='fa fa-angle-double-right'></i> JS Output[AFNAN DWI ASTUTI ]</a>
+			</li><li><a href='?module=JS Where To'><i class='fa fa-angle-double-right'></i> JS Where To[ADELLIA ASKARAGITA]  </a>
+			</li><li>	<a href='?module=JS Output'><i class='fa fa-angle-double-right'></i> JS Output[ROY FERNANDO ]</a>
 			</li><li>	<a href='?module=JS Statements'><i class='fa fa-angle-double-right'></i> JS Statements[AGAM MUJAHIDIN ]</a>
 			</li><li>	<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'></i>JS Syntax[AHMAD HABIBI ] </a>
 			</li><li><a href='?module=JS Comments'><i class='fa fa-angle-double-right'></i>JS Comments[ALDI PRATAMA]</a>
@@ -49,6 +49,7 @@
 			</li><li>	<a href='?module=JS Array Iteration'><i class='fa fa-angle-double-right'></i>JS Array Iteration[GUSTIAN FIRMAN ABIDIN 	]</a>
 			</li><li>	<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'>			</i>JS Array Const[HERRY NURFAJDWIANTO  ]</a>
 			</li><li>	<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'></i>JS Dates[HERI KURNIAWAN]</a>
+			</li><li>	<a href='?module=JS Output'><i class='fa fa-angle-double-right'></i> JS Input[AFNAN DWI ASTUTI ]</a>
 			</li>
 			<li>	<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'></i>JS Date Get Method	  [HOTTUA KURNIAWAN LEONARDUS 	]</a></li><li>
 			<li>	<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'></i>JS Date Set Method	  [IBNU UMAR SARIP 	]</a>
