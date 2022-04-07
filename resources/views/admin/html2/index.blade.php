@@ -52,7 +52,7 @@ h4 {
 <aside class='right-side'>
 <!-- Content Header (Page header) -->
 <section class='content-header'>
-<h1>Tutorial HTML</h1>
+<h1>Tutorial HTML</h1>  
 </section>
 
 		<!-- Main content -->
