@@ -38,78 +38,24 @@
 		</ul>
 	</li><li class='treeview'><a href='#'><i class='fa fa-bars'></i><span>Tutorial CSS</span><i class='fa fa-angle-left pull-right'></i></a> 
 		<ul class='treeview-menu'>
-				<li>
-					<a href='?module=CSS Introduction'><i class='fa fa-angle-double-right'></i> CSS Introduction  33</a>
-				</li><li>
-					<a href='?module=CSS Syntax'><i class='fa fa-angle-double-right'></i> CSS Syntax</a>
-				</li><li>
-					<a href='?module=CSS Selectors'><i class='fa fa-angle-double-right'></i> CSS Selectors</a>
-				</li><li>
-					<a href='?module=CSS How To'><i class='fa fa-angle-double-right'></i> CSS How To</a>
-				</li><li>
-					<a href='?module=CSS Comments'><i class='fa fa-angle-double-right'></i> CSS Comments</a>
-				</li><li>
-					<a href='?module=CSS Colors'><i class='fa fa-angle-double-right'></i> CSS Colors</a>
-				</li><li>
-					<a href='?module=CSS Backgrounds'><i class='fa fa-angle-double-right'></i>CSS Backgrounds</a>
-				</li><li>
-					<a href='?module=CSS Backgrounds'><i class='fa fa-angle-double-right'></i>CSS Backgrounds</a>
-				</li><li>
-					<a href='?module=CSS Backgrounds'><i class='fa fa-angle-double-right'></i>CSS Backgrounds</a>
-				</li><li>
-					<a href='?module=CSS Backgrounds'><i class='fa fa-angle-double-right'></i>CSS Backgrounds</a>
-				</li><li>
-					<a href='?module=CSS Backgrounds'><i class='fa fa-angle-double-right'></i>CSS Backgrounds</a>
-				</li><li>
-					<a href='?module=CSS Backgrounds'><i class='fa fa-angle-double-right'></i>CSS Backgrounds</a>
-				</li><li>
-					<a href='?module=CSS Backgrounds'><i class='fa fa-angle-double-right'></i>CSS Backgrounds</a>
-				</li><li>
-					<a href='?module=CSS Backgrounds'><i class='fa fa-angle-double-right'></i>CSS Backgrounds</a>
-				</li><li>
-					<a href='?module=CSS Backgrounds'><i class='fa fa-angle-double-right'></i>CSS Backgrounds</a>
-				</li><li>
-					<a href='?module=CSS Backgrounds'><i class='fa fa-angle-double-right'></i>CSS Backgrounds</a>
-				</li><li>
-					<a href='?module=CSS Backgrounds'><i class='fa fa-angle-double-right'></i>CSS Backgrounds</a>
-				</li><li>
-					<a href='?module=CSS Backgrounds'><i class='fa fa-angle-double-right'></i>CSS Backgrounds</a>
-				</li><li>
-					<a href='?module=CSS Backgrounds'><i class='fa fa-angle-double-right'></i>CSS Backgrounds</a>
-				</li><li>
-					<a href='?module=CSS Backgrounds'><i class='fa fa-angle-double-right'></i>CSS Backgrounds</a>
-				</li><li>
-					<a href='?module=CSS Backgrounds'><i class='fa fa-angle-double-right'></i>CSS Backgrounds</a>
-				</li><li>
-					<a href='?module=CSS Backgrounds'><i class='fa fa-angle-double-right'></i>CSS Backgrounds</a>
-				</li><li>
-					<a href='?module=CSS Backgrounds'><i class='fa fa-angle-double-right'></i>CSS Backgrounds</a>
-				</li><li>
-					<a href='?module=CSS Backgrounds'><i class='fa fa-angle-double-right'></i>CSS Backgrounds</a>
-				</li><li>
-					<a href='?module=CSS Backgrounds'><i class='fa fa-angle-double-right'></i>CSS Backgrounds</a>
-				</li><li>
-					<a href='?module=CSS Backgrounds'><i class='fa fa-angle-double-right'></i>CSS Backgrounds</a>
-				</li><li>
-					<a href='?module=CSS Backgrounds'><i class='fa fa-angle-double-right'></i>CSS Backgrounds</a>
-				</li><li>
-					<a href='?module=CSS Backgrounds'><i class='fa fa-angle-double-right'></i>CSS Backgrounds</a>
-				</li><li>
-					<a href='?module=CSS Backgrounds'><i class='fa fa-angle-double-right'></i>CSS Backgrounds</a>
-				</li><li>
-					<a href='?module=CSS Backgrounds'><i class='fa fa-angle-double-right'></i>CSS Backgrounds</a>
-				</li><li>
-					<a href='?module=CSS Backgrounds'><i class='fa fa-angle-double-right'></i>CSS Backgrounds</a>
-				</li><li>
-					<a href='?module=CSS Backgrounds'><i class='fa fa-angle-double-right'></i>CSS Backgrounds</a>
-				</li><li>
-					<a href='?module=CSS Backgrounds'><i class='fa fa-angle-double-right'></i>CSS Backgrounds</a>
-				</li><li>
-					<a href='?module=CSS Backgrounds'><i class='fa fa-angle-double-right'></i>CSS Backgrounds</a>
-				</li><li>
-					<a href='?module=CSS Backgrounds'><i class='fa fa-angle-double-right'></i>CSS Backgrounds</a>
-				</li>
-		</ul>
+				<li><a href='?module=CSS Introduction'><i class='fa fa-angle-double-right'></i> CSS Tutorial	[ Bhagaskara Farhan Wiguna]   </a></li>
+				<li><a href='?module=CSS Introduction'><i class='fa fa-angle-double-right'></i> CSS HOME		[ Satrio Aji Pratama 201910225362]   </a></li>					
+				<li><a href='?module=CSS Introduction'><i class='fa fa-angle-double-right'></i> CSS Introduction[ Reza Ari Hidayat 201910225297]   </a></li>	
+				<li><a href='?module=CSS Introduction'><i class='fa fa-angle-double-right'></i> CSS Syntax		[ Hasnaa Febriyanti 201810225089]   </a></li>		
+				<li><a href='?module=CSS Introduction'><i class='fa fa-angle-double-right'></i> CSS Selectors	[ Feriyandi Gunawan 201810225328]   </a></li>
+				<li><a href='?module=CSS Introduction'><i class='fa fa-angle-double-right'></i> CSS How To		[ Ali purnomo shidiq 201810225351]   </a></li>					
+				<li><a href='?module=CSS Introduction'><i class='fa fa-angle-double-right'></i> CSS Comments	[ Ahmad Faridz Al Mahdi 201910225270]   </a></li>	
+				<li><a href='?module=CSS Introduction'><i class='fa fa-angle-double-right'></i> CSS Colors		[ Rivaldi Pradana 201910225405]   </a></li>		
+				<li><a href='?module=CSS Introduction'><i class='fa fa-angle-double-right'></i> CSS Backgrounds	[ ]   </a></li>
+				<li><a href='?module=CSS Introduction'><i class='fa fa-angle-double-right'></i> CSS Borders		[ ]   </a></li>					
+				<li><a href='?module=CSS Introduction'><i class='fa fa-angle-double-right'></i> CSS Margins		[ ]   </a></li>	
+				<li><a href='?module=CSS Introduction'><i class='fa fa-angle-double-right'></i> CSS Padding		[ ]   </a></li>		
+				<li><a href='?module=CSS Introduction'><i class='fa fa-angle-double-right'></i> CSS Height/Width[ ]   </a></li>
+				<li><a href='?module=CSS Introduction'><i class='fa fa-angle-double-right'></i> CSS Box Model	[ ]   </a></li>					
+				<li><a href='?module=CSS Introduction'><i class='fa fa-angle-double-right'></i> CSS Outline		[ ]   </a></li>	
+				<li><a href='?module=CSS Introduction'><i class='fa fa-angle-double-right'></i> CSS Text		[ ]   </a></li>	
+                                                                                                
+		</ul>                                                                                  
 	</li><li class='treeview'><a href='#'><i class='fa fa-pagelines'></i><span>Tutorial JavaScript</span><i class='fa fa-angle-left pull-right'></i></a> 
 		<ul class='treeview-menu'>
 				<li><a href="{{ route('jsintro') }}"><i class='fa fa-angle-double-right'></i> JS Introduction </a>
