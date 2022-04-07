@@ -22,7 +22,8 @@
 				<li><a href="{{ route('htmlintro') }}"><i class='fa fa-angle-double-right'></i>HTML Introduction</a>
 				
 	<li><a href="{{ route('htmlintro') }}"><i class='fa fa-angle-double-right'></i>HTML Introduction</a>
-	</li><li><a href='{{ route('htmlEditors') }}'><i class='fa fa-angle-double-right'></i>HTML Editors[ AHMAD HAIKAL 	] </a>
+	</li><li><a href='?module=JS Where To'><i class='fa fa-angle-double-right'></i>HTML Editors[ AHMAD HAIKAL 	] </a>
+    </li><li><a href='?module=JS Where To'><i class='fa fa-angle-double-right'></i>HTML Editors[ DIKA ALFIANI FAUZAN 	] </a>
 	</li><li><a href='?module=JS Where To'><i class='fa fa-angle-double-right'></i>HTML Basic[ ARYA BATARA SENA 	] </a>
 	</li><li><a href='?module=JS Where To'><i class='fa fa-angle-double-right'></i>HTML Elements[ BAYU ANDRIANSYAH 	] </a>
 	</li><li><a href='?module=JS Where To'><i class='fa fa-angle-double-right'></i>HTML Attributes[ DENDI KURNIADI 	] </a>
