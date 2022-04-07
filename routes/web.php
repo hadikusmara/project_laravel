@@ -19,7 +19,7 @@ Route::prefix('admin')->group(function () {
 
 
     Route::get('/Introduction', 'HtmlintroController@index')->name('htmlintro');
-    Route::get('/htmlEditors', 'htmlEditorsController@index')->name('Editors');
+    Route::get('/htmlEditors', 'htmlEditorsController@index')->name('htmlEditors');
 	Route::get('/CssText', 'CssTextController@index')->name('CssText');
 	
 
