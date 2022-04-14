@@ -26,7 +26,7 @@ Route::prefix('admin')->group(function () {
 
 
 	Route::get('/CssText', 'CssTextController@index')->name('CssText');
-	
+	Route::get('/CssText_next', 'CssTextController@index_next')->name('CssText_next');
     
 
     Route::get('/jsIntroduction', 'JsintroController@index')->name('jsintro');

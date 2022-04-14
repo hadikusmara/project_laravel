@@ -53,7 +53,7 @@ uic_r_a()
 <ul>
   <!--membuat Link ke module lain atau berpindah ke halaman lain  -->
 		<li><a href="{{ route('adminhome') }}" >Dashboard</a></li>
-		<li><a href="{{ route('htmlintro') }}">Sebelumnya CSS</a></li>
+		<li><a href="{{ route('CssText') }}">Sebelumnya CSS</a></li>
 
 </ul>
 </div>
@@ -86,21 +86,71 @@ title="Close Menu" style="font-weight:bold;padding-top:10px;padding-bottom:11px;
  <!--menampilkan editor buatan sendiri    -->
  <textarea autocomplete="off" id="textareaCode" wrap="logical" spellcheck="false">
  
-          <!DOCTYPE html>
-          <html>
-          <head>
-          <title>judul halaman</title>
-          </head>
-          <body>
+		<!DOCTYPE html>
+		<html>
+		<head>
+		<title>judul halaman CSS</title>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
 
-          <p>This text is normal.</p>
-          <p><strong>This text is important!</strong></p>
-          <p><i>This text is italic.</i></p>
-          <h3 style="color:Tomato;">Hello World</h3>
-          <p style="color:DodgerBlue;">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
-            <p style="color:MediumSeaGreen;">Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</p>
-          </body>
-          </html> 
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+<img src="http://127.0.0.1:8000/asset/img/logo.png" height='37'>
+			<h2>HTML Table untuk css</h2>
+
+			<table>
+			<tr>
+				<th>Company</th>
+				<th>Contact</th>
+				<th>Country</th>
+			</tr>
+			<tr>
+				<td>Alfreds Futterkiste</td>
+				<td>Maria Anders</td>
+				<td>Germany</td>
+			</tr>
+			<tr>
+				<td>Centro comercial Moctezuma</td>
+				<td>Francisco Chang</td>
+				<td>Mexico</td>
+			</tr>
+			<tr>
+				<td>Ernst Handel</td>
+				<td>Roland Mendel</td>
+				<td>Austria</td>
+			</tr>
+			<tr>
+				<td>Island Trading</td>
+				<td>Helen Bennett</td>
+				<td>UK</td>
+			</tr>
+			<tr>
+				<td>Laughing Bacchus Winecellars</td>
+				<td>Yoshi Tannamuri</td>
+				<td>Canada</td>
+			</tr>
+			<tr>
+				<td>Magazzini Alimentari Riuniti</td>
+				<td>Giovanni Rovelli</td>
+				<td>Italy</td>
+			</tr>
+			</table>
+
+			</body>
 </textarea>
 <!--menampilkan hasil yang di run dari editor buatan sendiri    -->
         <form id="codeForm" autocomplete="off" style="margin:0px;display:none;">
