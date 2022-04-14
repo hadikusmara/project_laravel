@@ -19,10 +19,15 @@ Route::prefix('admin')->group(function () {
 
 
     Route::get('/Introduction', 'HtmlintroController@index')->name('htmlintro');
+    Route::get('/htmlintro_next', 'HtmlintroController@index_next')->name('htmlintro_next');
+
     Route::get('/htmlEditors', 'htmlEditorsController@index')->name('htmlEditors');
+
+
+
 	Route::get('/CssText', 'CssTextController@index')->name('CssText');
 	
-
+    
 
     Route::get('/jsIntroduction', 'JsintroController@index')->name('jsintro');
   

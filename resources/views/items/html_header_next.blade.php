@@ -16,9 +16,6 @@
 	<link href="{{ asset('asset/css/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css')}}" rel="stylesheet" type="text/css" />
 
 
-<link rel="stylesheet" href="{{ asset('editor/css/style.css')}}">
-<script src="{{ asset('editor/js/editor.js')}}"></script>
-<script src="{{ asset('editor/js/loder.js')}}"></script>
-<script src="{{ asset('editor/js/loder_ubj.js')}}"></script>
-<script src="{{ asset('editor/js/uic.js?v=1.0.3')}}"></script>
+
+
 </head>
