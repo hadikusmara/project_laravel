@@ -59,7 +59,7 @@
 	</li><li class='treeview'><a href='#'><i class='fa fa-pagelines'></i><span>Tutorial JavaScript</span><i class='fa fa-angle-left pull-right'></i></a> 
 		<ul class='treeview-menu'>
 				<li><a href="{{ route('jsintro') }}"><i class='fa fa-angle-double-right'></i> JS Introduction </a>
-				</li><li><a href='?module=JS Where To'><i class='fa fa-angle-double-right'></i> JS Where To[ADELLIA ASKARAGITA}  </a>
+				</li><li><a href='?module=JS Where To'><i class='fa fa-angle-double-right'></i> JS Where To[ROY FERNANDO 201910225001]  </a>
 				</li><li><a href='?module=JS Output'><i class='fa fa-angle-double-right'></i> JS Output[AFNAN DWI ASTUTI ]</a>
 				</li><li><a href='?module=JS Statements'><i class='fa fa-angle-double-right'></i> JS Statements[AGAM MUJAHIDIN ]</a>
 				</li><li><a href='?module=JS Syntax'><i class='fa fa-angle-double-right'></i>JS Syntax[AHMAD HABIBI ] </a>
@@ -97,13 +97,13 @@
 				</li><li>
 					<a href='?module=JS Arrays'><i class='fa fa-angle-double-right'></i>JS Arrays[ GALIH ADI PRATAMA]</a>
 				</li><li>
-					<a href='?module=JS Array Methods'><i class='fa fa-angle-double-right'>	   </i>JS Array Methods[ 		]</a>
+					<a href='?module=JS Array Methods'><i class='fa fa-angle-double-right'></i>JS Array Methods[ Arif supriyadi 201910225295]</a>
 				</li><li>
-					<a href='?module=JS Array Sort'><i class='fa fa-angle-double-right'>		  </i>JS Array Sort[	]</a>
+					<a href='?module=JS Array Sort'><i class='fa fa-angle-double-right'></i>JS Array Sort[	Maulana Malik Ibrahim 201910225399]</a>
 				</li><li>
-					<a href='?module=JS Array Iteration'><i class='fa fa-angle-double-right'></i>JS Array Iteration[    ]</a>
+					<a href='?module=JS Array Iteration'><i class='fa fa-angle-double-right'></i>JS Array Iteration[  Beston Yohanes Sihotang 201910225098  ]</a>
 				</li><li>
-					<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'>			</i>JS Syntax		[   ]</a>
+					<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'></i>JS Syntax		[   ]</a>
 				</li><li>
 					<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'></i>JS Syntax</a>
 				</li><li>
