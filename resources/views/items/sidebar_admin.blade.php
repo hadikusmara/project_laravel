@@ -103,43 +103,56 @@
 				</li><li>
 					<a href='?module=JS Array Iteration'><i class='fa fa-angle-double-right'></i>JS Array Iteration[  Beston Yohanes Sihotang 201910225098  ]</a>
 				</li><li>
-					<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'></i>JS Syntax		[   ]</a>
+					<a href='?module=JS Array Const'><i class='fa fa-angle-double-right'></i>JS Array Const[ Muhammad Rusdi Maulana 201910225122  ]</a>
 				</li><li>
-					<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'></i>JS Syntax</a>
+					<a href='?module=JS Date Objects'><i class='fa fa-angle-double-right'></i>JS Date Objects[Dwi Ayu Novitasari 201910225026]</a>
 				</li><li>
-					<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'></i>JS Syntax</a>
+				<a href='?module=JS Date Formats'><i class='fa fa-angle-double-right'></i>JS Date Formats[Muhammad Hendrik Prasetiyo 201910225372]</a>
 				</li><li>
-					<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'></i>JS Syntax</a>
+					<a href='?module=JS Get Date Methods'><i class='fa fa-angle-double-right'></i>JS Get Date Methods[Eko Sandy Nugroho 201910227001]</a>
 				</li><li>
-					<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'></i>JS Syntax</a>
+					<a href='?module=JS Set Date Methods'><i class='fa fa-angle-double-right'></i>JS Set Date Methods[Sandhy Kusuma Oktapianto 201910225348]</a>
 				</li><li>
-					<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'></i>JS Syntax</a>
+					<a href='?module=JS Math'><i class='fa fa-angle-double-right'></i>JS Math[Sofyan Sauri 201910225004]</a>
 				</li><li>
-					<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'></i>JS Syntax</a>
+					<a href='?module=JS Random'><i class='fa fa-angle-double-right'></i>JS Random[Muhammad Nur Rizki 201910225279]</a>
 				</li><li>
-					<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'></i>JS Syntax</a>
+					<a href='?module=JS Booleans'><i class='fa fa-angle-double-right'></i>JS Booleans[ Wildan Choirur Rizal 201910225225]</a>
 				</li><li>
-					<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'></i>JS Syntax</a>
+					<a href='?module=JS Comparison'><i class='fa fa-angle-double-right'></i>JS Comparison[Satria Ario Dharma 201910225214]</a>
 				</li><li>
-					<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'></i>JS Syntax</a>
+					<a href='?module=JS ifelse'><i class='fa fa-angle-double-right'></i>JS ifelse[Lukas Very Fernando 201910225012]</a>
 				</li><li>
-					<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'></i>JS Syntax</a>
+					<a href='?module=JS Switch'><i class='fa fa-angle-double-right'></i>JS Switch[M fajar 201910225005]</a>
 				</li><li>
-					<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'></i>JS Syntax</a>
+					<a href='?module=JS For Loop'><i class='fa fa-angle-double-right'></i>JS For Loop[Rakha Alif Priyanto 201910225183]</a>
 				</li><li>
-					<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'></i>JS Syntax</a>
+					<a href='?module=JS Loop For In'><i class='fa fa-angle-double-right'></i>JS Loop For In[Atsal Adriansyah 201910225059]</a>
 				</li><li>
-					<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'></i>JS Syntax</a>
+					<a href='?module=JS Loop For Of'><i class='fa fa-angle-double-right'></i>JS Loop For Of[Febri Faturachman 201910225032]</a>
 				</li><li>
-					<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'></i>JS Syntax</a>
+					<a href='?module=JS Loop While '><i class='fa fa-angle-double-right'></i>JS Loop While[Daffa Variandra 201910225203]</a>
 				</li><li>
-					<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'></i>JS Syntax</a>
+					<a href='?module=JS Break'><i class='fa fa-angle-double-right'></i>JS Break[Azka Dzafir an Nabil 201910225305]</a>
 				</li><li>
-					<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'></i>JS Syntax</a>
+					<a href='?module=JS Iterables'><i class='fa fa-angle-double-right'></i>JS Iterables[ INSAN 201910225224]</a>
 				</li><li>
-					<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'></i>JS Syntax</a>
+					<a href='?module=JS Sets'><i class='fa fa-angle-double-right'></i>JS Sets[Mangappu Pardamean Simanjuntak 201910225193]</a>
 				</li><li>
-					<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'></i>JS Syntax</a>
+					<a href='?module=JS Maps'><i class='fa fa-angle-double-right'></i>JS Maps[Rizal mahmudi 201910225284]</a>
+				</li>
+				</li><li>
+					<a href='?module=JS typeof'><i class='fa fa-angle-double-right'></i>JS typeof[Efrianto Nugroho P 201910227003]</a>
+				</li><li>
+					<a href='?module=JS Type Conversion'><i class='fa fa-angle-double-right'></i>JS Type Conversion[Muhammad As'adul Azmi 201910225033]</a>
+				</li><li>
+					<a href='?module=JS Bitwise'><i class='fa fa-angle-double-right'></i>JS Bitwise[ahmad muslih 201910225013]</a>
+				</li><li>
+					<a href='?module=JS RegularExp'><i class='fa fa-angle-double-right'></i>JS RegularExp[ Fauzan Al Farizi 201910225339]</a>
+				</li><li>
+					<a href='?module=JS Errors'><i class='fa fa-angle-double-right'></i>JS Errors[ Nia Febriani 201910225010]</a>
+				</li><li>
+					<a href='?module=JS Scope'><i class='fa fa-angle-double-right'></i>JS Scope[]</a>
 				</li>
 		</ul>
 	</li><li class='treeview'><a href='#'><i class='fa  fa-calendar-o'></i><span>Tutorial Laragon</span><i class='fa fa-angle-left pull-right'></i></a> 
