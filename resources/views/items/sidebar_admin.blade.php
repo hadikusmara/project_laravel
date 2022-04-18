@@ -59,7 +59,7 @@
 	</li><li class='treeview'><a href='#'><i class='fa fa-pagelines'></i><span>Tutorial JavaScript</span><i class='fa fa-angle-left pull-right'></i></a> 
 		<ul class='treeview-menu'>
 				<li><a href="{{ route('jsintro') }}"><i class='fa fa-angle-double-right'></i> JS Introduction </a>
-				</li><li><a href='?module=JS Where To'><i class='fa fa-angle-double-right'></i> JS Where To[ROY FERNANDO 201910225001]  </a>
+				</li><a href="{{ route('jswhereto') }}"><i class='fa fa-angle-double-right'> JS Where To[ROY FERNANDO 201910225001]  </a>
 				</li><li><a href='?module=JS Output'><i class='fa fa-angle-double-right'></i> JS Output[AFNAN DWI ASTUTI ]</a>
 				</li><li><a href='?module=JS Statements'><i class='fa fa-angle-double-right'></i> JS Statements[AGAM MUJAHIDIN ]</a>
 				</li><li><a href='?module=JS Syntax'><i class='fa fa-angle-double-right'></i>JS Syntax[AHMAD HABIBI ] </a>

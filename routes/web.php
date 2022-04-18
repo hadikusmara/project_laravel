@@ -32,4 +32,6 @@ Route::prefix('admin')->group(function () {
     Route::get('/jsIntroduction', 'JsintroController@index')->name('jsintro');
   
 
+    Route::get('/jsWhereTo', 'JswheretoController@index')->name('jswhereto');
+
 });
