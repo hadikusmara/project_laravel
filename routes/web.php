@@ -30,6 +30,9 @@ Route::prefix('admin')->group(function () {
     
 
     Route::get('/jsIntroduction', 'JsintroController@index')->name('jsintro');
+
+    Route::get('/CssColour', 'CssColourController@index')->name('CssColour');
+    Route::get('/CssColour_next', 'CssColourController@index_next')->name('CssColour_next');
   
 
 });
