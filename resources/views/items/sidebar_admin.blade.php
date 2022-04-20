@@ -29,7 +29,7 @@
 	</li><li><a href='?module=JS Where To'><i class='fa fa-angle-double-right'></i>HTML Headings[ DIMAS IBNUAZZIS 	] </a>
 	</li><li><a href='?module=JS Where To'><i class='fa fa-angle-double-right'></i>HTML Paragraphs[ FEBRINA DIPONEGORO 	] </a>
 	</li><li><a href='?module=JS Where To'><i class='fa fa-angle-double-right'></i>HTML Styles[ MUHAMMAD MAULIA ASDI 	] </a>
-	</li><li><a href='?module=JS Where To'><i class='fa fa-angle-double-right'></i>HTML Formatting[ MUHAMMAD SHIDQI PRAMUDYA WIBOWO ] </a>
+	</li><li><a href="{{ route('htmlformatting') }}"><i class='fa fa-angle-double-right'></i>HTML Formatting[ MUHAMMAD SHIDQI PRAMUDYA WIBOWO ] </a>
 	</li><li><a href='?module=JS Where To'><i class='fa fa-angle-double-right'></i>HTML Quotations[ RAFI ADIB FADHILAH 	] </a>
 	</li><li><a href='?module=JS Where To'><i class='fa fa-angle-double-right'></i>HTML Comments[ SATRIO ADHIYATAMA ERLANGGA 	] </a>
 	</li><li><a href='?module=JS Where To'><i class='fa fa-angle-double-right'></i>HTML Colors [ SIGIT SETIA BUDI 	] </a>
