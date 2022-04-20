@@ -13,13 +13,12 @@
 			<div class='row'>
 			</div><!-- /.row -->
 			<div class='box box-primary'>
-				<div class='box-header' style="background-color: red;">
+				<div class='box-header'>
 					<i class='fa fa-th'></i>
 					<h3 class='box-title'>Universitas Bhayangkara Jakarta Raya</h3>
 					<br>
 					<br>
-					<h4>Farids Marchdiansyah</h4>
-					<center><img src="asset/img/farid.jpg" width=95%></center>
+					<center><img src="asset/img/welcome.png" width=95%></center>
 				</div>
 				<div class='box-body border-radius-none'>	
 					<script src="js/jquery.min.js" type="text/javascript"></script>
