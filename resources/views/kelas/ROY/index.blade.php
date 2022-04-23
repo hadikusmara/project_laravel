@@ -1,86 +1,147 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>JS where to</title>
-</head>
-<body>
-  <h1> js where to</h1>
-  <script>
-    var a = 1;
-    var b = 2;
-    var c = 3;
-    var d = 4;
-    var e = 5;
-    var f = 6;
-    var g = 7;
-    var h = 8;
-    var i = 9;
-    var j = 10;
-    var k = 11;
-    var l = 12;
-    var m = 13;
-    var n = 14;
-    var o = 15;
-    var p = 16;
-    var q = 17;
-    var r = 18;
-    var s = 19;
-    var t = 20;
-    var u = 21;
-    var v = 22;
-    var w = 23;
-    var x = 24;
-    var y = 25;
-    var z = 26;
-    var aa = 27;
-    var bb = 28;
-    var cc = 29;
-    var dd = 30;
-    var ee = 31;
-    var ff = 32;
-    var gg = 33;
-    var hh = 34;
-    var ii = 35;
-    var jj = 36;
-    var kk = 37;
-    var ll = 38;
-    var mm = 39;
-    var nn = 40;
-    var oo = 41;
-    var pp = 42;
-    var qq = 43;
-    var rr = 44;
-    var ss = 45;
-    var tt = 46;
-    var uu = 47;
-    var vv = 48;
-    var ww = 49;
-    var xx = 50;
-    var yy = 51;
-    var zz = 52;
-    var aaa = 53;
-    var bbb = 54;
-    var ccc = 55;
-    var ddd = 56;
-    var eee = 57;
-    var fff = 58;
-    var ggg = 59;
-    var hhh = 60;
-    var iii = 61;
-    var jjj = 62;
-    var
-  </script>
-  The <script> Tag
-In HTML, JavaScript code is inserted between <script> and </script> tags.
-Example
-<script>
-document.getElementById("demo").innerHTML = "My First JavaScript";
-</script>
+
+<style>
+h4 {
+  border: 1px solid;
+  background-color:#ff6347;
+}
+/* bentuk border */
+
+.w3-example {
+  padding: 8px 20px;
+  margin: 24px -20px;
+  box-shadow: none !important;
+}
+.w3-example {
+  background-color: #E7E9EB;
+  border-radius: 5px;
+  padding: 0.01em 16px;
+  margin: 20px 0;
+  box-shadow: 0 2px 4px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12) !important;
+}
+.w3-code {
+  width: auto;
+  background-color: #fff;
+  color: #000;
+  padding: 8px 12px;
+  border-left: 4px solid #4CAF50;
+  word-wrap: break-word;
+}	
+
+.w3-btn:hover, .w3-btn:active, .w3-example a:focus, .nextprev a:focus {
+  box-shadow: none;
+  background-color: #059862 !important;
+}
+.w3-btn, .w3-btn:link, .w3-btn:visited {
+  color: #FFFFFF;
+  background-color: #4CAF50;
+}
+.w3-example .w3-btn, .w3-example .ws-btn {
+  background-color: #04AA6D !important;
+  border-radius: 5px;
+  font-size: 17px;
+  font-family: 'Source Sans Pro', sans-serif;
+  padding: 6px 18px;
+}
+.w3-margin-bottom {
+  margin-bottom: 16px !important;
+}
+
+</style>
+<aside class='right-side'>
+<!-- Content Header (Page header) -->
+<section class='content-header'>
+<h1>Tutorial JavaScript</h1>
+</section>
+
+		<!-- Main content -->
+		<section class='content'>
+		<!-- Small boxes (Stat box) -->
+			<div class='row'>
+			</div><!-- /.row -->
+			<div class='box box-primary'>
+				<div class='box-header'>
+					<i class='fa fa-th'></i>
+					<h3 class='box-title'>Universitas Bhayangkara Jakarta Raya</h3>
+				</div>
+				<div class='box-body border-radius-none'>	
+				<p>JavaScript Functions and Events
+          JavaScript functionadalah blok kode JavaScript, yang dapat dieksekusi saat "dipanggil".
+
+Misalnya, suatu fungsi dapat dipanggil ketika suatu peristiwa terjadi, seperti ketika pengguna mengklik tombol.
+
+Anda akan belajar lebih banyak tentang fungsi dan peristiwa di bab-bab selanjutnya.
+Contoh   ::</p>
+<h4>JavaScript di <head> atau <body></h4>
+
+<p>Anda dapat menempatkan sejumlah skrip dalam dokumen HTML.
+
+  Skrip dapat ditempatkan di <body>, atau di <head>bagian halaman HTML, atau di keduanya. </p>
 
 
+<div class="w3-example">
+	<h3>Contoh</h3>
+	<div class="w3-code notranslate htmlHigh">
+		&lt;!DOCTYPE html&gt;<br>
+		&lt;html&gt;<br>&lt;head&gt;<br>&lt;title&gt;judul halaman&lt;/title&gt;<br>
+		&lt;/head&gt;<br>&lt;body&gt;<br><br>&lt;h1&gt;disini mebuat judulnya&lt;/h1&gt;
+		<br>&lt;p&gt;disini membuat paragrap.&lt;/p&gt;<br><br>
+		&lt;/body&gt;<br>&lt;/html&gt;
+	</div>
+	<div >
+		<a class="w3-btn w3-margin-bottom" href="" target="_blank">Coba Sendiri &raquo;</a>
+	</div>
 
-</body>
-</html>
+	<strong>Click aja &quot;Coba Sendiri&quot; Tombol ini Untuk melihat koding sebenarnya.</strong>
+
+	</div>
+	<hr>
+
+<h2>HTML Examples</h2>
+<p>Dalam tutorial HTML ini, Anda akan menemukan lebih dari 200 contoh. Dengan online kami
+&quot;Coba Sendiri&quot; editor, Anda dapat mengedit dan menguji setiap contoh sendiri!</p>
+<p><a href="html_examples.asp" class="ws-btn ws-grey ws-hover-black">Buka Contoh HTML!</a></p>
+<div id="midcontentadcontainer" style="overflow:auto;text-align:center">
+<!-- MidContent -->
+<!-- <p class="adtext">Advertisement</p> -->
+
+
+  <div id="adngin-mid_content-0"></div>
+  
+</div>
+              
+			</div>
+			<!-- /.box-body -->
+			<div class='box-footer no-border'>         
+			</div><!-- /.box-footer -->
+		</div><!-- /.box -->                              
+	</div>        
+					<!-- Main row -->
+					<div class='row'>
+							<!-- Left col -->
+							<section class='col-lg-7 connectedSortable'>                            
+									<!-- Custom tabs (Charts with tabs)-->                           
+								 <!-- /.nav-tabs-custom -->
+									<!-- Chat box -->                            
+														 <!-- end chate -->                                              
+									<!-- TO DO List menu sebelah kiri -->
+									
+									
+							</section><!-- /.Left col -->
+							<!-- right col (We are only adding the ID to make the widgets sortable)-->
+							<!-- sing tengen -->
+							<section class='col-lg-5 connectedSortable'> 
+									<!-- Map box -->                            
+									<!-- /.box -->
+									<!-- solid sales graph -->
+								 <!-- /.box  sebelah kanan-->
+								 
+								 
+							</section><!-- right col -->
+					</div><!-- /.row (main row) -->
+			</section><!-- /.END MAIN CONTEN -->
+	</aside>           
+    <!-- /.Isi Content -->
+
+
+</div>
+
