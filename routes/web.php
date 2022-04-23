@@ -33,5 +33,6 @@ Route::prefix('admin')->group(function () {
   
 
     Route::get('/jsWhereTo', 'JswheretoController@index')->name('jswhereto');
+    Route::get('/jsWhereTo_next', 'JswheretoController@index_next')->name('jswhereto_next');
 
 });
