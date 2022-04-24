@@ -1,0 +1,147 @@
+
+<style>
+h4 {
+  border: 1px solid;
+  background-color:#ff6347;
+}
+/* bentuk border */
+
+.w3-example {
+  padding: 8px 20px;
+  margin: 24px -20px;
+  box-shadow: none !important;
+}
+.w3-example {
+  background-color: #E7E9EB;
+  border-radius: 5px;
+  padding: 0.01em 16px;
+  margin: 20px 0;
+  box-shadow: 0 2px 4px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12) !important;
+}
+.w3-code {
+  width: auto;
+  background-color: #fff;
+  color: #000;
+  padding: 8px 12px;
+  border-left: 4px solid #4CAF50;
+  word-wrap: break-word;
+}	
+
+.w3-btn:hover, .w3-btn:active, .w3-example a:focus, .nextprev a:focus {
+  box-shadow: none;
+  background-color: #059862 !important;
+}
+.w3-btn, .w3-btn:link, .w3-btn:visited {
+  color: #FFFFFF;
+  background-color: #4CAF50;
+}
+.w3-example .w3-btn, .w3-example .ws-btn {
+  background-color: #04AA6D !important;
+  border-radius: 5px;
+  font-size: 17px;
+  font-family: 'Source Sans Pro', sans-serif;
+  padding: 6px 18px;
+}
+.w3-margin-bottom {
+  margin-bottom: 16px !important;
+}
+
+</style>
+<aside class='right-side'>
+<!-- Content Header (Page header) -->
+<section class='content-header'>
+<h1>Tutorial JavaScript</h1>
+</section>
+
+		<!-- Main content -->
+		<section class='content'>
+		<!-- Small boxes (Stat box) -->
+			<div class='row'>
+			</div><!-- /.row -->
+			<div class='box box-primary'>
+				<div class='box-header'>
+					<i class='fa fa-th'></i>
+					<h3 class='box-title'>Universitas Bhayangkara Jakarta Raya</h3>
+				</div>
+				<div class='box-body border-radius-none'>	
+				<p>JavaScript Functions and Events
+          JavaScript functionadalah blok kode JavaScript, yang dapat dieksekusi saat "dipanggil".
+
+Misalnya, suatu fungsi dapat dipanggil ketika suatu peristiwa terjadi, seperti ketika pengguna mengklik tombol.
+
+Anda akan belajar lebih banyak tentang fungsi dan peristiwa di bab-bab selanjutnya.
+Contoh   ::</p>
+<h4>JavaScript di <head> atau <body></h4>
+
+<p>Anda dapat menempatkan sejumlah skrip dalam dokumen HTML.
+
+  Skrip dapat ditempatkan di <body>, atau di <head>bagian halaman HTML, atau di keduanya. </p>
+
+
+<div class="w3-example">
+	<h3>Contoh</h3>
+	<div class="w3-code notranslate htmlHigh">
+		&lt;!DOCTYPE html&gt;<br>
+		&lt;html&gt;<br>&lt;head&gt;<br>&lt;title&gt;judul halaman&lt;/title&gt;<br>
+		&lt;/head&gt;<br>&lt;body&gt;<br><br>&lt;h1&gt;disini mebuat judulnya&lt;/h1&gt;
+		<br>&lt;p&gt;disini membuat paragrap.&lt;/p&gt;<br><br>
+		&lt;/body&gt;<br>&lt;/html&gt;
+	</div>
+	<div >
+		<a class="w3-btn w3-margin-bottom" href="" target="_blank">Coba Sendiri &raquo;</a>
+	</div>
+
+	<strong>Click aja &quot;Coba Sendiri&quot; Tombol ini Untuk melihat koding sebenarnya.</strong>
+
+	</div>
+	<hr>
+
+<h2>HTML Examples</h2>
+<p>Dalam tutorial HTML ini, Anda akan menemukan lebih dari 200 contoh. Dengan online kami
+&quot;Coba Sendiri&quot; editor, Anda dapat mengedit dan menguji setiap contoh sendiri!</p>
+<p><a href="html_examples.asp" class="ws-btn ws-grey ws-hover-black">Buka Contoh HTML!</a></p>
+<div id="midcontentadcontainer" style="overflow:auto;text-align:center">
+<!-- MidContent -->
+<!-- <p class="adtext">Advertisement</p> -->
+
+
+  <div id="adngin-mid_content-0"></div>
+  
+</div>
+              
+			</div>
+			<!-- /.box-body -->
+			<div class='box-footer no-border'>         
+			</div><!-- /.box-footer -->
+		</div><!-- /.box -->                              
+	</div>        
+					<!-- Main row -->
+					<div class='row'>
+							<!-- Left col -->
+							<section class='col-lg-7 connectedSortable'>                            
+									<!-- Custom tabs (Charts with tabs)-->                           
+								 <!-- /.nav-tabs-custom -->
+									<!-- Chat box -->                            
+														 <!-- end chate -->                                              
+									<!-- TO DO List menu sebelah kiri -->
+									
+									
+							</section><!-- /.Left col -->
+							<!-- right col (We are only adding the ID to make the widgets sortable)-->
+							<!-- sing tengen -->
+							<section class='col-lg-5 connectedSortable'> 
+									<!-- Map box -->                            
+									<!-- /.box -->
+									<!-- solid sales graph -->
+								 <!-- /.box  sebelah kanan-->
+								 
+								 
+							</section><!-- right col -->
+					</div><!-- /.row (main row) -->
+			</section><!-- /.END MAIN CONTEN -->
+	</aside>           
+    <!-- /.Isi Content -->
+
+
+</div>
+
