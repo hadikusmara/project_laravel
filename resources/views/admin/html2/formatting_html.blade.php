@@ -66,23 +66,23 @@ h4 {
 					<h3 class='box-title'>Universitas Bhayangkara Jakarta Raya</h3>
 				</div>
 				<div class='box-body border-radius-none'>	
-				<p>HTML Formatting Tutorial
-Html formatting HTML menyediakan beberapa tag yang dapat digunakan untuk mengatur paragraf. Halaman Web yang dibuat dengan tag HTML (code HTML) dapat digabungkan dengan text.
-Contoh   ::</p>
+				<p>Html formatting menyediakan beberapa tag yang dapat digunakan untuk mengatur paragraf. Halaman Web yang dibuat dengan tag HTML (code HTML) dapat digabungkan dengan text. 
+
+				</p>
 <h4>Belajar Formatting Yok "Monggo Coba Sendiri"</h4>
 
-<p>Dengan editor "Coba Sendiri" kami, Anda dapat mengedit kode HTML dan melihat hasilnya: </p>
+<p>Dengan editor "Coba Sendiri" kamu, Anda dapat mengedit kode HTML dan melihat hasilnya: </p>
 
 
 <div class="w3-example">
 	<h3>Contoh</h3>
-	<div class="w3-code notranslate htmlHigh">
-		&lt;!DOCTYPE html&gt;<br>
-		&lt;html&gt;<br>&lt;head&gt;<br>&lt;title&gt;judul halaman&lt;/title&gt;<br>
-		&lt;/head&gt;<br>&lt;body&gt;<br><br>&lt;h1&gt;disini mebuat judulnya&lt;/h1&gt;
-		<br>&lt;p&gt;disini membuat paragrap.&lt;/p&gt;<br><br>
-		&lt;/body&gt;<br>&lt;/html&gt;
-	</div>
+	<div class="w3-example">
+<h3>Example</h3>
+<div class="w3-white w3-padding notranslate">
+<p><b>This text is bold</b></p>
+<p><i>This text is italic</i></p>
+<p>This is<sub> subscript</sub> and <sup>superscript</sup></p>
+</div>
 	<div >
 		<a class="w3-btn w3-margin-bottom" href="{{ route('htmlformatting_next') }}" target="_blank">Coba Sendiri &raquo;</a>
 	</div>
