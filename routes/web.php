@@ -12,10 +12,14 @@ use Illuminate\Support\Facades\Route;
 | contains the "web" middleware group. Now create something great!
 |
 */
+
 Route::get('/', 'AdminController@index')->name('userhome');
 
 Route::prefix('admin')->group(function () {
     Route::get('/', 'AdminController@index')->name('adminhome');
+
+    Route::get('/Quotations', 'HtmlquotationsController@index')->name('htmlquotations');
+    Route::get('/htmlquotations_next', 'HtmlquotationsController@index_next')->name('htmlquotations_next');
 
 
     Route::get('/Introduction', 'HtmlintroController@index')->name('htmlintro');
@@ -25,12 +29,10 @@ Route::prefix('admin')->group(function () {
 
 
 
-	Route::get('/CssText', 'CssTextController@index')->name('CssText');
-	Route::get('/CssText_next', 'CssTextController@index_next')->name('CssText_next');
-    
+    Route::get('/CssText', 'CssTextController@index')->name('CssText');
+    Route::get('/CssText_next', 'CssTextController@index_next')->name('CssText_next');
+
 
     Route::get('/jsIntroduction', 'JsintroController@index')->name('jsintro');
     Route::get('/jsIntroduction_next', 'JsintroController@index_next')->name('jsintro_next');
-  
-
 });
