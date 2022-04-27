@@ -17,7 +17,8 @@ Route::get('/', 'AdminController@index')->name('userhome');
 Route::prefix('admin')->group(function () {
     Route::get('/', 'AdminController@index')->name('adminhome');
 
-
+    Route::get('/CssBackground', 'CssBackgroundController@index')->name('cssbackground');
+    Route::get('/CssBackground_next', 'CssBackgroundController@index_next')->name('cssbackground_next');
     Route::get('/Introduction', 'HtmlintroController@index')->name('htmlintro');
     Route::get('/htmlintro_next', 'HtmlintroController@index_next')->name('htmlintro_next');
 
