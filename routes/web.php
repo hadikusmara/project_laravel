@@ -18,6 +18,10 @@ Route::prefix('admin')->group(function () {
     Route::get('/', 'AdminController@index')->name('adminhome');
 
 
+    Route::get('/htmlformatting', 'HtmlFormattingController@index')->name('htmlformatting');
+    Route::get('/htmlformatting_next', 'HtmlFormattingController@index_next')->name('htmlformatting_next');
+
+
     Route::get('/Introduction', 'HtmlintroController@index')->name('htmlintro');
     Route::get('/htmlintro_next', 'HtmlintroController@index_next')->name('htmlintro_next');
 
