@@ -17,6 +17,9 @@ Route::get('/', 'AdminController@index')->name('userhome');
 Route::prefix('admin')->group(function () {
     Route::get('/', 'AdminController@index')->name('adminhome');
 
+    Route::get('/Colors', 'HtmlColorsController@index')->name('htmlcolors');
+    Route::get('/htmlcolors_next', 'HtmlColorsController@index_next')->name('htmlcolors_next');
+
 
     Route::get('/Introduction', 'HtmlintroController@index')->name('htmlintro');
     Route::get('/htmlintro_next', 'HtmlintroController@index_next')->name('htmlintro_next');
