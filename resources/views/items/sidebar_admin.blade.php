@@ -32,7 +32,7 @@
 	</li><li><a href='?module=JS Where To'><i class='fa fa-angle-double-right'></i>HTML Formatting[ MUHAMMAD SHIDQI PRAMUDYA WIBOWO ] </a>
 	</li><li><a href='?module=JS Where To'><i class='fa fa-angle-double-right'></i>HTML Quotations[ RAFI ADIB FADHILAH 	] </a>
 	</li><li><a href='?module=JS Where To'><i class='fa fa-angle-double-right'></i>HTML Comments[ SATRIO ADHIYATAMA ERLANGGA 	] </a>
-	</li><li><a href='?module=JS Where To'><i class='fa fa-angle-double-right'></i>HTML Colors [ SIGIT SETIA BUDI 	] </a>
+	</li><li><a href="{{ route('htmlcolors') }}"><i class='fa fa-angle-double-right'></i>HTML Colors [ SIGIT SETIA BUDI 	] </a>
 	</li><li><a href='?module=JS Where To'><i class='fa fa-angle-double-right'></i>HTML CSS [ YEREMIA ] </a></li>
 	
 		</ul>
