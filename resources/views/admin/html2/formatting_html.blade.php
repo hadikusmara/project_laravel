@@ -66,74 +66,248 @@ h4 {
 					<h3 class='box-title'>Universitas Bhayangkara Jakarta Raya</h3>
 				</div>
 				<div class='box-body border-radius-none'>	
-				<p>Html formatting menyediakan beberapa tag yang dapat digunakan untuk mengatur paragraf. Halaman Web yang dibuat dengan tag HTML (code HTML) dapat digabungkan dengan text. 
-
-				</p>
-<h4>Belajar Formatting Yok "Monggo Coba Sendiri"</h4>
-
-<p>Dengan editor "Coba Sendiri" kamu, Anda dapat mengedit kode HTML dan melihat hasilnya: </p>
-
+				</div>
+<h1>HTML <span class="color_h1">Text Formatting</span></h1>
+<div class="w3-clear nextprev">
+<a class="w3-left w3-btn" href="html_styles.asp">&#10094; Previous</a>
+<a class="w3-right w3-btn" href="html_quotation_elements.asp">Next &#10095;</a>
+</div>
+<hr>
+<p class="intro">HTML contains several elements for defining text with a special meaning.</p>
+<hr>
 
 <div class="w3-example">
-	<h3>Contoh</h3>
-	<div class="w3-example">
 <h3>Example</h3>
 <div class="w3-white w3-padding notranslate">
 <p><b>This text is bold</b></p>
 <p><i>This text is italic</i></p>
 <p>This is<sub> subscript</sub> and <sup>superscript</sup></p>
 </div>
-	<div >
-		<a class="w3-btn w3-margin-bottom" href="{{ route('htmlformatting_next') }}" target="_blank">Coba Sendiri &raquo;</a>
+<a class="w3-btn w3-margin-bottom" href="{{ route('htmlformatting_next') }}" target="_blank">Coba Sendiri &raquo;</a>
 	</div>
+<hr>
 
-	<strong>Click aja &quot;Coba Sendiri&quot; Tombol ini Untuk melihat koding sebenarnya.</strong>
+<h2>HTML Formatting Elements</h2>
 
+<p>Formatting elements were designed to display special types of text:</p>
+<ul>
+ <li><code class="w3-codespan">&lt;b&gt;</code> - Bold text</li>
+ <li><code class="w3-codespan">&lt;strong&gt;</code> - Important text</li>
+ <li><code class="w3-codespan">&lt;i&gt;</code> - Italic text</li>
+ <li><code class="w3-codespan">&lt;em&gt;</code> - Emphasized text</li>
+ <li><code class="w3-codespan">&lt;mark&gt;</code> - Marked text</li>
+ <li><code class="w3-codespan">&lt;small&gt;</code> - Smaller text</li>
+ <li><code class="w3-codespan">&lt;del&gt;</code> - Deleted text</li>
+ <li><code class="w3-codespan">&lt;ins&gt;</code> - Inserted text</li>
+ <li><code class="w3-codespan">&lt;sub&gt;</code> - Subscript text</li>
+ <li><code class="w3-codespan">&lt;sup&gt;</code> - Superscript text</li>
+</ul>
+<hr>
+
+<h2>HTML &lt;b&gt; and &lt;strong&gt; Elements</h2>
+<p>The HTML <code class="w3-codespan">&lt;b&gt;</code> element defines bold text, 
+without any extra importance.</p>
+<div class="w3-example">
+<h3>Example</h3>
+<div class="w3-code notranslate htmlHigh">
+    &lt;b&gt;This text is bold&lt;/b&gt;</div>
+<a class="w3-btn w3-margin-bottom" href="tryit.asp?filename=tryhtml_formatting_b" target="_blank">Try it Yourself &raquo;</a>
+</div>
+<p>The HTML <code class="w3-codespan">&lt;strong&gt;</code> element defines text 
+with strong importance. The content inside is typically displayed in bold.</p>
+<div class="w3-example">
+<h3>Example</h3>
+ <div class="w3-code notranslate htmlHigh">
+     &lt;strong&gt;This text is 
+     important!&lt;/strong&gt;</div>
+	 <a class="w3-btn w3-margin-bottom" href="{{ route('htmlformatting_next') }}" target="_blank">Coba Sendiri &raquo;</a>
 	</div>
-	<hr>
-
-<h2>HTML Examples</h2>
-<p>Dalam tutorial HTML ini, Anda akan menemukan lebih dari 200 contoh. Dengan online kami
-&quot;Coba Sendiri&quot; editor, Anda dapat mengedit dan menguji setiap contoh sendiri!</p>
-<p><a href="html_examples.asp" class="ws-btn ws-grey ws-hover-black">Buka Contoh HTML!</a></p>
+<hr>
 <div id="midcontentadcontainer" style="overflow:auto;text-align:center">
 <!-- MidContent -->
 <!-- <p class="adtext">Advertisement</p> -->
 
-
   <div id="adngin-mid_content-0"></div>
   
 </div>
-              
-			</div>
-			<!-- /.box-body -->
-			<div class='box-footer no-border'>         
-			</div><!-- /.box-footer -->
-		</div><!-- /.box -->                              
-	</div>        
-					<!-- Main row -->
-					<div class='row'>
-							<!-- Left col -->
-							<section class='col-lg-7 connectedSortable'>                            
-									<!-- Custom tabs (Charts with tabs)-->                           
-								 <!-- /.nav-tabs-custom -->
-									<!-- Chat box -->                            
-														 <!-- end chate -->                                              
-									<!-- TO DO List menu sebelah kiri -->
-									
-									
-							</section><!-- /.Left col -->
-							<!-- right col (We are only adding the ID to make the widgets sortable)-->
-							<!-- sing tengen -->
-							<section class='col-lg-5 connectedSortable'> 
-									<!-- Map box -->                            
-									<!-- /.box -->
-									<!-- solid sales graph -->
-								 <!-- /.box  sebelah kanan-->
-								 
-								 
-							</section><!-- right col -->
-					</div><!-- /.row (main row) -->
+<hr>
+<h2>HTML &lt;i&gt; and &lt;em&gt; Elements</h2>
+<p>The HTML <code class="w3-codespan">&lt;i&gt;</code> element defines a part of 
+text in an alternate voice or mood. The content inside is typically displayed in 
+italic.</p>
+<p><strong>Tip:</strong> The <code class="w3-codespan">&lt;i&gt;</code> tag is often used to indicate a technical term, 
+a phrase from another language, a thought, a ship name, etc.</p>
+<div class="w3-example">
+<h3>Example</h3>
+<div class="w3-code notranslate htmlHigh">
+    &lt;i&gt;This text is italic&lt;/i&gt;</div>
+	<a class="w3-btn w3-margin-bottom" href="{{ route('htmlformatting_next') }}" target="_blank">Coba Sendiri &raquo;</a>
+	</div>
+<p>The HTML <code class="w3-codespan">&lt;em&gt;</code> element defines 
+emphasized text. The content inside is typically displayed in italic.</p>
+<p><strong>Tip:</strong> A screen reader will pronounce the words in <code class="w3-codespan">&lt;em&gt;</code> 
+with an emphasis, using verbal stress.</p>
+<div class="w3-example">
+<h3>Example</h3>
+<div class="w3-code notranslate htmlHigh">
+    &lt;em&gt;This text is 
+ emphasized&lt;/em&gt;</div>
+ <a class="w3-btn w3-margin-bottom" href="{{ route('htmlformatting_next') }}" target="_blank">Coba Sendiri &raquo;</a>
+	</div>
+<hr>
+
+<h2>HTML &lt;small&gt; Element</h2>
+<p>The HTML <code class="w3-codespan">&lt;small&gt;</code> element defines 
+smaller text:</p>
+<div class="w3-example">
+<h3>Example</h3>
+<div class="w3-code notranslate htmlHigh">
+  &lt;small&gt;This is some smaller text.&lt;/small&gt;<br>
+</div>
+<a class="w3-btn w3-margin-bottom" href="{{ route('htmlformatting_next') }}" target="_blank">Coba Sendiri &raquo;</a>
+	</div>
+<hr>
+
+<h2>HTML &lt;mark&gt; Element</h2>
+<p>The HTML <code class="w3-codespan">&lt;mark&gt;</code> element defines text 
+that should be marked or highlighted:</p>
+<div class="w3-example">
+<h3>Example</h3>
+<div class="w3-code notranslate htmlHigh">
+  &lt;p&gt;Do not forget to buy &lt;mark&gt;milk&lt;/mark&gt; today.&lt;/p&gt;<br>
+</div>
+<a class="w3-btn w3-margin-bottom" href="{{ route('htmlformatting_next') }}" target="_blank">Coba Sendiri &raquo;</a>
+	</div>
+<hr>
+
+<h2>HTML &lt;del&gt; Element</h2>
+<p>The HTML <code class="w3-codespan">&lt;del&gt;</code> element defines text 
+that has been deleted from a document. Browsers will usually strike a line 
+through deleted text:</p>
+<div class="w3-example">
+<h3>Example</h3>
+<div class="w3-code notranslate htmlHigh">
+ &lt;p&gt;My favorite color is &lt;del&gt;blue&lt;/del&gt; red.&lt;/p&gt;<br>
+</div>
+<a class="w3-btn w3-margin-bottom" href="{{ route('htmlformatting_next') }}" target="_blank">Coba Sendiri &raquo;</a>
+	</div>
+
+<hr>
+<h2>HTML &lt;ins&gt; Element</h2>
+<p>The HTML <code class="w3-codespan">&lt;ins&gt;</code> element defines a text 
+that has been inserted into a document. Browsers will usually underline inserted 
+text:</p>
+<div class="w3-example">
+<h3>Example</h3>
+<div class="w3-code notranslate htmlHigh">
+  &lt;p&gt;My favorite color is &lt;del&gt;blue&lt;/del&gt; &lt;ins&gt;red&lt;/ins&gt;.&lt;/p&gt;<br>
+</div>
+<a class="w3-btn w3-margin-bottom" href="{{ route('htmlformatting_next') }}" target="_blank">Coba Sendiri &raquo;</a>
+	</div>
+
+<hr>
+<h2>HTML &lt;sub&gt; Element</h2>
+<p>The HTML <code class="w3-codespan">&lt;sub&gt;</code> element defines 
+subscript text. Subscript text appears half a character below the normal line, 
+and is sometimes rendered in a smaller font. Subscript text can be used for 
+chemical formulas, like H<sub>2</sub>O:</p>
+<div class="w3-example">
+<h3>Example</h3>
+<div class="w3-code notranslate htmlHigh">
+ &lt;p&gt;This 
+ is &lt;sub&gt;subscripted&lt;/sub&gt; text.&lt;/p&gt;<br>
+</div>
+<a class="w3-btn w3-margin-bottom" href="{{ route('htmlformatting_next') }}" target="_blank">Coba Sendiri &raquo;</a>
+	</div>
+
+<hr>
+<h2>HTML &lt;sup&gt; Element</h2>
+<p>The HTML <code class="w3-codespan">&lt;sup&gt;</code> element defines 
+superscript text. Superscript text appears half a character above the normal 
+line, and is sometimes rendered in a smaller font. Superscript text can be used 
+for footnotes, like WWW<sup>[1]</sup>:</p>
+<div class="w3-example">
+<h3>Example</h3>
+<div class="w3-code notranslate htmlHigh">
+ &lt;p&gt;This 
+ is &lt;sup&gt;superscripted&lt;/sup&gt; text.&lt;/p&gt;<br>
+</div>
+<a class="w3-btn w3-margin-bottom" href="{{ route('htmlformatting_next') }}" target="_blank">Coba Sendiri &raquo;</a>
+	</div>
+<hr>
+<h2>HTML Exercises</h2>
+<form autocomplete="off" id="w3-exerciseform" action="exercise.asp?filename=exercise_html_formatting1" method="post" target="_blank">
+<h2>Test Yourself With Exercises</h2>
+<div class="exercisewindow">
+<h2>Exercise:</h2>
+<p>Add extra importance to the word "degradation" in the paragraph below.</p>
+<div class="exerciseprecontainer">
+&lt;p&gt;
+<br>
+WWF's mission is to stop the
+<input name="ex1" maxlength="8" style="width: 86px;">degradation<input name="ex2" maxlength="9" style="width: 96px;"> of our
+planet's natural environment.
+<br>
+&lt;/p&gt;
+</div>
+<br>
+<button type="submit" class="w3-btn w3-margin-bottom">Submit Answer &raquo;</button>
+<p><a target="_blank" href="exercise.asp?filename=exercise_html_formatting1">Start the Exercise</a></p>
+</div>
+</form>
+<hr>
+
+<h2>HTML Text Formatting Elements</h2>
+<table class="ws-table-all notranslate">
+<tr>
+<th style="width:20%">Tag</th>
+<th>Description</th>
+</tr>
+<tr>
+<td><a href="/tags/tag_b.asp">&lt;b&gt;</a></td>
+<td>Defines bold text</td>
+</tr>
+<tr>
+<td><a href="/tags/tag_em.asp">&lt;em&gt;</a></td>
+<td>Defines emphasized text&nbsp;</td>
+</tr>
+<tr>
+<td><a href="/tags/tag_i.asp">&lt;i&gt;</a></td>
+<td>Defines a part of text in an alternate voice or mood</td>
+</tr>
+<tr>
+<td><a href="/tags/tag_small.asp">&lt;small&gt;</a></td>
+<td>Defines smaller text</td>
+</tr>
+<tr>
+<td><a href="/tags/tag_strong.asp">&lt;strong&gt;</a></td>
+<td>Defines important text</td>
+</tr>
+<tr>
+<td><a href="/tags/tag_sub.asp">&lt;sub&gt;</a></td>
+<td>Defines subscripted text</td>
+</tr>
+<tr>
+<td><a href="/tags/tag_sup.asp">&lt;sup&gt;</a></td>
+<td>Defines superscripted text</td>
+</tr>
+<tr>
+<td><a href="/tags/tag_ins.asp">&lt;ins&gt;</a></td>
+<td>Defines inserted text</td>
+</tr>
+<tr>
+<td><a href="/tags/tag_del.asp">&lt;del&gt;</a></td>
+<td>Defines deleted text</td>
+</tr>
+<tr>
+<td><a href="/tags/tag_mark.asp">&lt;mark&gt;</a></td>
+<td>Defines marked/highlighted text</td>
+</tr>
+</table>
+<div class="w3-note w3-panel">
+  <p>For a complete list of all available HTML tags, visit our <a href="/tags/default.asp">HTML Tag Reference</a>.</p>
+</div>
+<!-- /.row (main row) -->
 			</section><!-- /.END MAIN CONTEN -->
 	</aside>           
     <!-- /.Isi Content -->
