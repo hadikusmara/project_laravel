@@ -1,16 +1,16 @@
+
 @extends('admin')
 
 @section('main-content')
 
 @include('admin.guru.view')
 
-
 <div class="panel panel-headline" id="menuGuruInput">
     <div class="panel-heading" style="margin-bottom: 2%">
-
+  
         <h1 class="panel-title col-md-4">Data Guru</h1>
         <div class="right col-md-4 text-right">
-            <a class="btn btn-primary btn-xs" id="btnTambah"> Tambah Data</a>
+   		 <div class=”card-header”>Tambah Data</div>
         </div>
     </div>
     <div class="alert alert-success" style="display: none;">
@@ -22,7 +22,8 @@
     <!-- Isi Content -->
 
     <div class="panel-body">
-        <table class="table table-hover" id="myTable">
+       <table border="3" style="background-color: orange;">
+       
             <tr>
                 <th>No</th>
                 <th>ID Guru</th>
@@ -40,7 +41,7 @@
 
     <div class="modal fade" id="modalLoader" role="dialog" tabindex="-1">
         <div style=" position: fixed; margin-left: 50%; margin-top: 20%; ">
-            <img src="{{ asset('img/loader.gif')}}" style=" width: 50px;" alt="loading..." />
+            <img src="{{ asset('img/loader.gif')}}" style=" width: 70px;" alt="loading..." />
         </div>
     </div>
 
@@ -57,7 +58,7 @@
                 </div>
                 <div class="modal-body">
                     <form id="formSave" method="POST" enctype="multipart/form-data">
-                        {{ csrf_field() }}
+                     
                             
                         <div class="form-group">
                            <label for="txtidguru" class="form-label">ID Guru</label>
@@ -174,7 +175,7 @@
                 <p>Not valid!</p>
             </div>
             <div class="sa-button-container">
-                <button id="btnHapus" class="confirm" tabindex="1" style="display: inline-block; background-color: rgb(221, 107, 85); box-shadow: rgba(221, 107, 85, 0.8) 0px 0px 2px, rgba(0, 0, 0, 0.05) 0px 0px 0px 1px inset;">Ya</button>
+                <button id="btnHapus" class="confirm" tabindex="1" style="display: inline-block; background-color: rgb(555, 107, 85); box-shadow: rgba(221, 107, 85, 0.8) 0px 0px 2px, rgba(0, 0, 0, 0.05) 0px 0px 0px 1px inset;">Ya</button>
                 <div class="sa-confirm-button-container">
                     <button class="cancel" tabindex="2" style="display: inline-block; box-shadow: none;" id="btnBatal">Batal</button>
                     <div class="la-ball-fall">
@@ -638,3 +639,4 @@
 		);
         </script>
         @endpush
+        

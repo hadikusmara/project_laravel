@@ -52,7 +52,7 @@ h4 {
 <aside class='right-side'>
 <!-- Content Header (Page header) -->
 <section class='content-header'>
-<h1>Tutorial HTML</h1>
+<h1>Tutorial HTML</h1>  
 </section>
 
 		<!-- Main content -->
@@ -66,7 +66,7 @@ h4 {
 					<h3 class='box-title'>Universitas Bhayangkara Jakarta Raya</h3>
 				</div>
 				<div class='box-body border-radius-none'>	
-				<p>HTML 2 Tutorial
+				<p>HTML Tutorial
 HTML adalah bahasa markup standar untuk halaman Web.Dengan HTML Anda dapat membuat situs web Anda sendiri.HTML mudah dipelajari - Anda akan menikmatinya!
 Contoh di Setiap Bab
 Tutorial HTML ini berisi ratusan contoh HTML.Dengan editor Notepade ++, Anda dapat mengedit HTML dan jalankan di browser anda.
