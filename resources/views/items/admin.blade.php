@@ -16,7 +16,7 @@
 				<div class='box-header'>
 					<i class='fa fa-th'></i>
 					<h3 class='box-title'>Universitas Bhayangkara Jakarta Raya</h3>
-					<center><img src="asset/img/welcome.png" width=95%></center>
+					<center><img src="asset/img/howtocss.png" width=95%></center>
 				</div>
 				<div class='box-body border-radius-none'>	
 					<script src="js/jquery.min.js" type="text/javascript"></script>
