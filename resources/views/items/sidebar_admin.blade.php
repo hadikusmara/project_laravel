@@ -38,7 +38,7 @@
 		</ul>
 	</li><li class='treeview'><a href='#'><i class='fa fa-bars'></i><span>Tutorial CSS</span><i class='fa fa-angle-left pull-right'></i></a> 
 		<ul class='treeview-menu'>
-				<li><a href='?module=CSS Introduction'><i class='fa fa-angle-double-right'></i> CSS Tutorial	[ Bhagaskara Farhan Wiguna]   </a></li>
+				<li><a href='{{ route('CssTutorial') }}'><i class='fa fa-angle-double-right'></i> CSS Tutorial	[ Bhagaskara Farhan Wiguna]   </a></li>
 				<li><a href='?module=CSS Introduction'><i class='fa fa-angle-double-right'></i> CSS HOME		[ Satrio Aji Pratama 201910225362]   </a></li>					
 				<li><a href='?module=CSS Introduction'><i class='fa fa-angle-double-right'></i> CSS Introduction[ Reza Ari Hidayat 201910225297]   </a></li>	
 				<li><a href='?module=CSS Introduction'><i class='fa fa-angle-double-right'></i> CSS Syntax		[ Hasnaa Febriyanti 201810225089]   </a></li>		
