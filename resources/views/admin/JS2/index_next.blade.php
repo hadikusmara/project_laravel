@@ -53,7 +53,7 @@ uic_r_a()
 <ul>
   <!--membuat Link ke module lain atau berpindah ke halaman lain  -->
 		<li><a href="{{ route('adminhome') }}" >Dashboard</a></li>
-		<li><a href="{{ route('CssText') }}">Sebelumnya CSS</a></li>
+		<li><a href="{{ route('jsintro') }}">Sebelumnya JS</a></li>
 
 </ul>
 </div>
@@ -89,68 +89,24 @@ title="Close Menu" style="font-weight:bold;padding-top:10px;padding-bottom:11px;
 		<!DOCTYPE html>
 		<html>
 		<head>
-		<title>judul halaman CSS</title>
-<style>
-table {
-  font-family: arial, sans-serif;
-  border-collapse: collapse;
-  width: 100%;
-}
+		<title>judul halaman JS namakamu</title>
 
-td, th {
-  border: 1px solid #dddddd;
-  text-align: left;
-  padding: 8px;
-}
-
-tr:nth-child(even) {
-  background-color: #dddddd;
-}
-</style>
 </head>
 <body>
 <img src="http://127.0.0.1:8000/asset/img/logo.png" height='37'>
-			<h2>HTML Table untuk css</h2>
 
-			<table>
-			<tr>
-				<th>Company</th>
-				<th>Contact</th>
-				<th>Country</th>
-			</tr>
-			<tr>
-				<td>Alfreds Futterkiste</td>
-				<td>Maria Anders</td>
-				<td>Germany</td>
-			</tr>
-			<tr>
-				<td>Centro comercial Moctezuma</td>
-				<td>Francisco Chang</td>
-				<td>Mexico</td>
-			</tr>
-			<tr>
-				<td>Ernst Handel</td>
-				<td>Roland Mendel</td>
-				<td>Austria</td>
-			</tr>
-			<tr>
-				<td>Island Trading</td>
-				<td>Helen Bennett</td>
-				<td>UK</td>
-			</tr>
-			<tr>
-				<td>Laughing Bacchus Winecellars</td>
-				<td>Yoshi Tannamuri</td>
-				<td>Canada</td>
-			</tr>
-			<tr>
-				<td>Magazzini Alimentari Riuniti</td>
-				<td>Giovanni Rovelli</td>
-				<td>Italy</td>
-			</tr>
-			</table>
+<h2>JavaScript Variables</h2>
+<p>contoh pengunana variabel x, y, and z .</p>
+<p id="demo"></p>
+<script>
+let x = 5;
+let y = 6;
+let z = x + y;
+document.getElementById("demo").innerHTML ="The value of z is: " + z;
+</script>
 
-			</body>
+</body>
+</html>
 </textarea>
 <!--menampilkan hasil yang di run dari editor buatan sendiri    -->
         <form id="codeForm" autocomplete="off" style="margin:0px;display:none;">
