@@ -43,7 +43,7 @@
 				<li><a href='?module=CSS Introduction'><i class='fa fa-angle-double-right'></i> CSS Introduction[ Reza Ari Hidayat 201910225297]   </a></li>	
 				<li><a href='?module=CSS Introduction'><i class='fa fa-angle-double-right'></i> CSS Syntax		[ Hasnaa Febriyanti 201810225089]   </a></li>		
 				<li><a href='?module=CSS Introduction'><i class='fa fa-angle-double-right'></i> CSS Selectors	[ Feriyandi Gunawan 201810225328]   </a></li>
-				<li><a href='?module=CSS Introduction'><i class='fa fa-angle-double-right'></i> CSS How To		[ Ali purnomo shidiq 201810225351]   </a></li>					
+				<li><a href='{{ route('CssHowto') }}'><i class='fa fa-angle-double-right'></i> CSS Text		[Ali Purnomo Shidiq 201810225351]   </a></li>				
 				<li><a href='?module=CSS Introduction'><i class='fa fa-angle-double-right'></i> CSS Comments	[ Ahmad Faridz Al Mahdi 201910225270]   </a></li>	
 				<li><a href='?module=CSS Introduction'><i class='fa fa-angle-double-right'></i> CSS Colors		[ Rivaldi Pradana 201910225405]   </a></li>		
 				<li><a href='?module=CSS Introduction'><i class='fa fa-angle-double-right'></i> CSS Backgrounds	[ ]   </a></li>
