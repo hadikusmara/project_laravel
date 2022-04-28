@@ -18,7 +18,8 @@
 					<h3 class='box-title'>Universitas Bhayangkara Jakarta Raya</h3>
 					<center><img src="asset/img/welcome.png" width=95%></center>
 				</div>
-				<div class='box-body border-radius-none'>				<script src="js/jquery.min.js" type="text/javascript"></script>
+				<div class='box-body border-radius-none'>	
+					<script src="js/jquery.min.js" type="text/javascript"></script>
 					                             
 			</div>
 			<!-- /.box-body -->

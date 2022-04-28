@@ -4,12 +4,13 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 
-class HtmlintroController extends Controller
+class CssTextController extends Controller
 {
     public function index(){
-        return view('admin.html2.index');
+        return view('admin.CssText.index');
     }
+
     public function index_next(){
-        return view('admin.html2.index_next');
+        return view('admin.CssText.index_next');
     }
 }

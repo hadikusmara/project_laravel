@@ -52,7 +52,7 @@ h4 {
 <aside class='right-side'>
 <!-- Content Header (Page header) -->
 <section class='content-header'>
-<h1>Tutorial HTML</h1>  
+<h1>Tutorial CSS</h1>
 </section>
 
 		<!-- Main content -->
@@ -66,12 +66,12 @@ h4 {
 					<h3 class='box-title'>Universitas Bhayangkara Jakarta Raya</h3>
 				</div>
 				<div class='box-body border-radius-none'>	
-				<p>HTML Tutorial
-HTML adalah bahasa markup standar untuk halaman Web.Dengan HTML Anda dapat membuat situs web Anda sendiri.HTML mudah dipelajari - Anda akan menikmatinya!
+				<p>CSS Tutorial
+CSS adalah bahasa markup standar untuk halaman Web.Dengan CSS Anda dapat membuat situs web Anda sendiri.HTML mudah dipelajari - Anda akan menikmatinya!
 Contoh di Setiap Bab
-Tutorial HTML ini berisi ratusan contoh HTML.Dengan editor Notepade ++, Anda dapat mengedit HTML dan jalankan di browser anda.
+Tutorial HTML ini berisi ratusan contoh CSS.Dengan editor Notepade ++, Anda dapat mengedit HTML dan jalankan di browser anda.
 Contoh   ::</p>
-<h4>Belajar Mudah dengan HTML "Coba Sendiri"</h4>
+<h4>Belajar Mudah dengan CSS "Coba Sendiri"</h4>
 
 <p>Dengan editor "Coba Sendiri" kami, Anda dapat mengedit kode HTML dan melihat hasilnya: </p>
 
@@ -79,14 +79,79 @@ Contoh   ::</p>
 <div class="w3-example">
 	<h3>Contoh</h3>
 	<div class="w3-code notranslate htmlHigh">
-		&lt;!DOCTYPE html&gt;<br>
-		&lt;html&gt;<br>&lt;head&gt;<br>&lt;title&gt;judul halaman&lt;/title&gt;<br>
-		&lt;/head&gt;<br>&lt;body&gt;<br><br>&lt;h1&gt;disini mebuat judulnya&lt;/h1&gt;
-		<br>&lt;p&gt;disini membuat paragrap.&lt;/p&gt;<br><br>
-		&lt;/body&gt;<br>&lt;/html&gt;
+		<!--mulai tampilan koding -->
+
+		&lt;!DOCTYPE html&gt;
+		&lt;html&gt;
+		&lt;head&gt;
+		&lt;title&gt;judul halaman CSS&lt;/title&gt;
+&lt;style&gt;
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+&lt;/style&gt;<br>
+&lt;/head&gt;<br>
+&lt;body&gt;<br><br>
+&lt;img src="http://127.0.0.1:8000/asset/img/logo.png" height='37'&gt;<br><br>
+			&lt;h2&gt;HTML Table untuk css&lt;/h2&gt;<br><br>
+
+			&lt;table&gt;<br>
+			&lt;tr&gt;<br>
+				&lt;th&gt;Company&lt;/th&gt;<br>
+				&lt;th&gt;Contact&lt;/th&gt;<br>
+				&lt;th&gt;Country&lt;/th&gt;<br>
+			&lt;/tr&gt;<br>
+			&lt;tr&gt;<br>
+				&lt;td&gt;Alfreds Futterkiste&lt;/td&gt;<br>
+				&lt;td&gt;Maria Anders&lt;/td&gt;<br>
+				&lt;td&gt;Germany&lt;/td&gt;<br>
+			&lt;/tr&gt;<br>
+			&lt;tr&gt;<br>
+				&lt;td&gt;Centro comercial Moctezuma&lt;/td&gt;<br>
+				&lt;td&gt;Francisco Chang&lt;/td&gt;<br>
+				&lt;td&gt;Mexico&lt;/td&gt;<br>
+			&lt;/tr&gt;<br>
+			&lt;tr&gt;<br>
+				&lt;td&gt;Ernst Handel&lt;/td&gt;<br>
+				&lt;td&gt;Roland Mendel&lt;/td&gt;<br>
+				&lt;td&gt;Austria&lt;/td&gt;<br>
+			&lt;/tr&gt;<br>
+			&lt;tr&gt;
+				&lt;td&gt;Island Trading&lt;/td&gt;
+				&lt;td&gt;Helen Bennett&lt;/td&gt;
+				&lt;td&gt;UK&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+				&lt;td&gt;Laughing Bacchus Winecellars&lt;/td&gt;
+				&lt;td&gt;Yoshi Tannamuri&lt;/td&gt;
+				&lt;td&gt;Canada&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+				&lt;td&gt;Magazzini Alimentari Riuniti&lt;/td&gt;
+				&lt;td&gt;Giovanni Rovelli&lt;/td&gt;
+				&lt;td&gt;Italy&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;/table&gt;
+
+	
+	<!--akhir tampilan koding -->
+		
+	
 	</div>
 	<div >
-		<a class="w3-btn w3-margin-bottom" href="{{ route('htmlintro_next') }}" target="_blank">Coba Sendiri &raquo;</a>
+		<a class="w3-btn w3-margin-bottom" href="{{ route('CssText_next') }}" target="_blank">Coba Sendiri &raquo;</a>
 	</div>
 
 	<strong>Click aja &quot;Coba Sendiri&quot; Tombol ini Untuk melihat koding sebenarnya.</strong>
@@ -94,7 +159,7 @@ Contoh   ::</p>
 	</div>
 	<hr>
 
-<h2>HTML Examples</h2>
+<h2>CSS Examples</h2>
 <p>Dalam tutorial HTML ini, Anda akan menemukan lebih dari 200 contoh. Dengan online kami
 &quot;Coba Sendiri&quot; editor, Anda dapat mengedit dan menguji setiap contoh sendiri!</p>
 <p><a href="html_examples.asp" class="ws-btn ws-grey ws-hover-black">Buka Contoh HTML!</a></p>

@@ -67,11 +67,17 @@ h4 {
 				</div>
 				<div class='box-body border-radius-none'>	
 				<p>JavaScript  Tutorial
-JS adalah bahasa markup standar untuk halaman Web.Denganjavascrpit Anda dapat membuat situs web Anda sendiri.HTML mudah dipelajari - Anda akan menikmatinya!
-Contoh di Setiap Bab
-Tutorialjavascrpit ini berisi ratusan contohjavascrpit.Dengan editor Notepade ++, Anda dapat mengeditjavascrpit dan jalankan di browser anda.
+JS adalah bahasa pemrograman yang sering di gunakan di aplikasi berbasi webde ++, Anda dapat mengeditjavascrpit dan jalankan di browser anda.
 Contoh   ::</p>
 <h4>Belajar Mudah denganjavascrpit "Coba Sendiri"</h4>
+
+<p>4 Ways to Declare a JavaScript Variable:</p>
+
+ <li> penggunaan  variabel var   </li>
+ <li> penggunaan  variabel let</li>
+ <li> penggunaan  variabel const</li>
+ <li> penggunaan  variabel nothing</li>
+
 
 <p>Dengan editor "Coba Sendiri" kami, Anda dapat mengedit kode javascript dan melihat hasilnya: </p>
 
@@ -79,14 +85,30 @@ Contoh   ::</p>
 <div class="w3-example">
 	<h3>Contoh</h3>
 	<div class="w3-code notranslate htmlHigh">
-		&lt;!DOCTYPE html&gt;<br>
-		&lt;html&gt;<br>&lt;head&gt;<br>&lt;title&gt;judul halaman&lt;/title&gt;<br>
-		&lt;/head&gt;<br>&lt;body&gt;<br><br>&lt;h1&gt;disini mebuat judulnya&lt;/h1&gt;
-		<br>&lt;p&gt;disini membuat paragrap.&lt;/p&gt;<br><br>
-		&lt;/body&gt;<br>&lt;/html&gt;
+
+	&lt;!DOCTYPE html&gt;<br>
+&lt;html&gt;<br>
+&lt;body&gt;<br>
+
+&lt;h2&gt;JavaScript Variables&lt;/h2&gt;<br>
+
+&lt;p&gt;In this example, x, y, and z are variables.&lt;/p&gt;<br>
+
+&lt;p id="demo"&gt;&lt;/p&gt;<br>
+
+&lt;script&gt;<br>
+let x = 5;<br>
+let y = 6;<br>
+let z = x + y;<br>
+document.getElementById("demo").innerHTML ="The value of z is: " + z;<br>
+&lt;/script&gt;<br>
+
+&lt;/body&gt;<br>
+&lt;/html&gt;<br>
+
 	</div>
 	<div >
-		<a class="w3-btn w3-margin-bottom" href="tryit.asp?filename=tryhtml_default" target="_blank">Coba Sendiri &raquo;</a>
+		<a class="w3-btn w3-margin-bottom" href="{{ route('jsintro_next') }}" target="_blank">Coba Sendiri &raquo;</a>
 	</div>
 
 	<strong>Click aja &quot;Coba Sendiri&quot; Tombol ini Untuk melihat koding sebenarnya.</strong>
@@ -94,7 +116,7 @@ Contoh   ::</p>
 	</div>
 	<hr>
 
-<h2>HTML Examples</h2>
+<h2>JSA Examples</h2>
 <p>Dalam tutorial HTML ini, Anda akan menemukan lebih dari 200 contoh. Dengan online kami
 &quot;Coba Sendiri&quot; editor, Anda dapat mengedit dan menguji setiap contoh sendiri!</p>
 <p><a href="html_examples.asp" class="ws-btn ws-grey ws-hover-black">Buka Contoh HTML!</a></p>
