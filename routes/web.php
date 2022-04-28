@@ -24,10 +24,11 @@ Route::prefix('admin')->group(function () {
     Route::get('/htmlEditors', 'htmlEditorsController@index')->name('htmlEditors');
 
 
-
 	Route::get('/CssText', 'CssTextController@index')->name('CssText');
 	Route::get('/CssText_next', 'CssTextController@index_next')->name('CssText_next');
     
+    Route::get('/CssSyntax', 'CssSyntaxController@index')->name('CssSyntax');
+    Route::get('/CssSyntax_next', 'CssSyntaxController@index_next')->name('CssSyntax_next');
 
     Route::get('/jsIntroduction', 'JsintroController@index')->name('jsintro');
     Route::get('/jsIntroduction_next', 'JsintroController@index_next')->name('jsintro_next');
