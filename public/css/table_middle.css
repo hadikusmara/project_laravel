@@ -1,0 +1,51 @@
+/**/
+        .table > thead > tr > th, .table > tbody > tr > th, .table > tfoot > tr > th, .table > thead > tr > td, .table > tbody > tr > td, .table > tfoot > tr > td {
+            vertical-align: middle;
+        }
+        .invoice {
+            margin: 0px 0px;
+        }
+        hr {
+            margin-top: 5px; 
+            margin-bottom: 5px; 
+            border: 0;
+            border-top: 1px solid #eeeeee;
+        }
+        .loadersmall {
+          border: 5px solid #f3f3f3;
+          -webkit-animation: spin 1s linear infinite;
+          animation: spin 1s linear infinite;
+          border-top: 5px solid #555;
+          border-radius: 50%;
+          width: 50px;
+          height: 50px;
+        }
+
+
+        @-webkit-keyframes spin {
+          0% { 
+            -webkit-transform: rotate(0deg);
+            -ms-transform: rotate(0deg);
+            transform: rotate(0deg);
+          }
+
+          100% {
+            -webkit-transform: rotate(360deg);
+            -ms-transform: rotate(360deg);
+            transform: rotate(360deg);
+          }
+        }
+
+        @keyframes spin {
+          0% { 
+            -webkit-transform: rotate(0deg);
+            -ms-transform: rotate(0deg);
+            transform: rotate(0deg);
+          }
+
+          100% {
+            -webkit-transform: rotate(360deg);
+            -ms-transform: rotate(360deg);
+            transform: rotate(360deg);
+          }
+        }

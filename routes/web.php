@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\UserController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -12,25 +13,17 @@ use Illuminate\Support\Facades\Route;
 | contains the "web" middleware group. Now create something great!
 |
 */
-Route::get('/', 'AdminController@index')->name('userhome');
 
-Route::prefix('admin')->group(function () {
-    Route::get('/', 'AdminController@index')->name('adminhome');
-
-
-    Route::get('/Introduction', 'HtmlintroController@index')->name('htmlintro');
-    Route::get('/htmlintro_next', 'HtmlintroController@index_next')->name('htmlintro_next');
-
-    Route::get('/htmlEditors', 'htmlEditorsController@index')->name('htmlEditors');
-
-
-
-	Route::get('/CssText', 'CssTextController@index')->name('CssText');
-	Route::get('/CssText_next', 'CssTextController@index_next')->name('CssText_next');
+Route::get('/', function () {
     
+    return view('home', ['title' => '']);
+    
+})->name('home');
 
-    Route::get('/jsIntroduction', 'JsintroController@index')->name('jsintro');
-    Route::get('/jsIntroduction_next', 'JsintroController@index_next')->name('jsintro_next');
-  
-
-});
+Route::get('register', [UserController::class, 'register'])->name('register');
+Route::post('register', [UserController::class, 'register_action'])->name('register.action');
+Route::get('login', [UserController::class, 'login'])->name('login');
+Route::post('login', [UserController::class, 'login_action'])->name('login.action');
+Route::get('password', [UserController::class, 'password'])->name('password');
+Route::post('password', [UserController::class, 'password_action'])->name('password.action');
+Route::get('logout', [UserController::class, 'logout'])->name('logout');
