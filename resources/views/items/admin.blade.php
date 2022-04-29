@@ -1,10 +1,11 @@
+@@ -0,0 +1,55 @@
 @extends('admin')
 
 @section('main-content')
 <aside class='right-side'>
 <!-- Content Header (Page header) -->
 <section class='content-header'>
-<h1>Ruang Development</h1>
+<h1>Ruang Development UTS Pemograman Berbasis Framework</h1>
 </section>
 
 		<!-- Main content -->
@@ -15,12 +16,12 @@
 			<div class='box box-primary'>
 				<div class='box-header'>
 					<i class='fa fa-th'></i>
-					<h3 class='box-title'>Universitas Bhayangkara Jakarta Raya</h3>
-					<center><img src="asset/img/welcome.png" width=95%></center>
+					<h3 class='box-title'>Universitas Bhayangkara Jakarta Raya Bekasi</h3>
+					<center><img src="asset/img/ubj.jpg" width=95%></center>
 				</div>
 				<div class='box-body border-radius-none'>	
 					<script src="js/jquery.min.js" type="text/javascript"></script>
-					                             
+
 			</div>
 			<!-- /.box-body -->
 			<div class='box-footer no-border'>         
@@ -53,4 +54,3 @@
 
 </div>
 @endsection
-
